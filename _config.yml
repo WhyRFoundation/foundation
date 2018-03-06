@@ -1,18 +1,18 @@
 # Site settings
-title: Jekyll-Uno
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
-url: 'http://joshgerdes.com/jekyll-uno'
-baseurl: '/jekyll-uno'
-# google_analytics: 'UA-XXXXXX-X'
+title: Why R? Foundation
+description: 'Why R? Foundation - polish foundation that supports R meetings in eastern-central Europe'
+url: 'http://whyrfoundation.github.io/'
+baseurl: '/'
+
 # disqus_shortname: 'your-disqus-name'
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  name: 'Why R? Foundation'
+  email: kontakt@whyr.pl
+  twitter_username: whyRconf
+  facebook_username: whyRconf
+  github_username:  WhyRFoundation
+  linkedin_username:  
 
 defaults:
   -
