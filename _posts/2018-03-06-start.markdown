@@ -1,8 +1,20 @@
 ---
-title:  "Why R Foundation"
+title:  "Goals and the scope of an action"
 date:   2018-03-06 15:34:23
 categories: [info]
 tags: [info]
 ---
 
-We'll write here what's the purpose!
+> The foundation's goal is:
+
+- spreading knowledge about the R statistical package.
+- supporting programs and pro-development initiatives in the fields of economics, mathematics, statistics and data science to serve educational activities,
+- supporting cooperation between the scientific and business environment.
+
+> The Foundation accomplishes its goals through:
+
+- organization and support of meetings and initiatives devoted to the dissemination of knowledge about statistics, economics, mathematics, data science and the R package on local, national and international level,
+- maintaining international cooperation with organizations with goals in line with the objectives of the foundation,
+- granting scholarships for outstanding students dealing with R, statistics and data science
+- supporting entrepreneurship related to the use of R, statistics and science data
+- other activities not mentioned above.
