@@ -1,8 +1,8 @@
 # Site settings
 title: Why R? Foundation
 description: 'Organizer of the Why R? 2018 conference'
-url: 'http://whyr.pl/'
-baseurl: '/foundation/'
+url: 'http://whyr.pl/foundation/'
+baseurl: '/'
 
 # disqus_shortname: 'your-disqus-name'
 
