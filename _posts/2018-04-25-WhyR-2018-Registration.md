@@ -68,7 +68,7 @@ The following events will be hosted during the Why R? 2018 conference:
 - session of sponsors, 
 - workshops - blocks of several small to mediumsized courses (up to 50 people) for R users at diﬀerent levels of proﬁciency.
 
-<img src="/images/fulls/whyr2018/programme.JPG" class="fit image">
+<img src="/foundation//images/fulls/whyr2018/programme.JPG" class="fit image">
 
 # Pre-meetings
 
@@ -76,11 +76,11 @@ We are organizing pre-meetings in many European cities to cultivate the R experi
 <img src="https://whyr2018.github.io/WhyR2018/img/bg/europe2_mapa_kwiecien_light.jpg" class="fit image">
 
 
-<img src="/../../images/fulls/whyr2018/pre/1.jpeg" class="left image">
+<img src="/foundation/images/fulls/whyr2018/pre/1.jpeg" class="left image">
 <img src="/foundation/images/fulls/whyr2018/pre/2.jpeg" class="right image">
 <img src="/foundation/images/fulls/whyr2018/pre/3.jpeg" class="left image">
-<img src="/images/fulls/whyr2018/pre/4.jpeg" class="right image">
-<img src="/images/fulls/whyr2018/pre/5.jpeg" class="fit image">
+<img src="/foundation//images/fulls/whyr2018/pre/4.jpeg" class="right image">
+<img src="/foundation//images/fulls/whyr2018/pre/5.jpeg" class="fit image">
 
 # Past event
 
