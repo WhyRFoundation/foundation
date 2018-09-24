@@ -5,7 +5,7 @@ comments: true
 published: true
 date: 2018-04-25 8:00:00
 author: Marcin Kosiński
-categories: [Meetups and conferences]
+tags: [2018]
 output:
   html_document:
     mathjax:  default
