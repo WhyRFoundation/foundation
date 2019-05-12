@@ -5,6 +5,7 @@ comments: true
 published: true
 date: 2019-02-09 8:00:00
 author: Michał Burdukiewicz
+categories: [summaries]
 tags: [2018]
 output:
   html_document:

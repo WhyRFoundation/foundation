@@ -1,8 +1,9 @@
 ---
-title:  "Contact information"
-date:   2018-02-20 11:14:43
-categories: [info]
-tags: [info]
+layout: post
+title: "Contact information"
+date: 2018-02-20 11:14:43
+permalink: /info/
+robots: noindex
 ---
 
 [National Register of Court (polish: Krajowy Rejestr Sądowy)](http://www.krs-online.com.pl/fundacja-why-r-krs-10311247.html)

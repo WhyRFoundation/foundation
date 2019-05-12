@@ -5,6 +5,7 @@ comments: true
 published: true
 date: 2019-05-07 21:00:00
 author: Marcin Kosiński
+categories: [conference]
 tags: [2019]
 output:
   html_document:
