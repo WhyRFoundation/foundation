@@ -25,7 +25,6 @@ output:
 
 # About the **Why R? 2019** conference
 
-
 We are more than happy to announce that Why R? 2019 Conference will be organized by [Why R? Foundation](http://whyr.pl/foundation/tags/#info). The third official meeting of Polish R enthusiasts will be held in Warsaw 26-29 September 2019. As the meeting is held in English, we are happy to invite R users from other countries. 
 
 - [Website](http://whyr.pl/2019/)
@@ -67,6 +66,6 @@ We are organizing pre-meetings in many European cities to cultivate the R experi
 
 # Past events
 
-Why R? 2017 edition, organized in Warsaw, gathered 200 participants. The Facebook reach of [the conference page](https://www.facebook.com/whyRconf/) exceeds 15 000 users, with almost 800 subscribers. Our [oﬃcial web page](http://whyr.pl) had over 8000 unique visitors and over 12 000 visits in general. To learn more about Why R? 2017 see the conference after movie (https://vimeo.com/239259242).
+Why R? 2017 edition, organized in Warsaw, gathered 200 participants. The Facebook reach of [the conference page](https://www.facebook.com/whyRconf/) exceeds 15 000 users, with almost 800 subscribers. Our [oﬃcial web page](http://whyr.pl) had over 8000 unique visitors and over 12 000 visits in general. To learn more about Why R? 2017 see the conference [after movie](https://vimeo.com/239259242).
 
 Why R? 2018 edition, organized in Wroclaw, gathered 250 participants. The aftermovie can be found [here](https://www.youtube.com/watch?v=NNsceaqEP1w)
