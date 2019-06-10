@@ -3,7 +3,7 @@ layout: post
 title: Why R? 2019 Conference - Keynotes and Workshops announced
 comments: true
 published: true
-date: 2019-06-10 8:00:00
+date: 2019-06-10 2:00:00
 author: Marcin Kosiński
 categories: [conference]
 tags: [2019]
