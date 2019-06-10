@@ -3,7 +3,7 @@ layout: post
 title: Why R? 2019 Conference - Keynotes and Workshops announced
 comments: true
 published: true
-date: 2019-06-10 2:00:00
+date: 2019-06-09 2:00:00
 author: Marcin Kosiński
 categories: [conference]
 tags: [2019]
@@ -54,23 +54,16 @@ Workshops take around 3 hours and happen in the morning or afternoon session.
 
 This path focuses on tools used in the interpretative machine learning to understand decisions made by our models.
 
-- Morning session
-    - [auditor + DALEX: a powerful duet for validation and explanation of machine learning models](https://github.com/WhyR2019/workshops/tree/master/dalex)
-    - [Alicja Gosiewska (Warsaw University of Technology, maintainer of the auditor package)](http://gosiewska.com/) and Tomasz Mikołajczyk will hold an introductory workshop about XAI in R. The workshop will mostly focus on tools from the DrWhy (drwhy.ai) universe.
+- [auditor + DALEX: a powerful duet for validation and explanation of machine learning models](https://github.com/WhyR2019/workshops/tree/master/dalex)
+    * [Alicja Gosiewska (Warsaw University of Technology, maintainer of the auditor package)](http://gosiewska.com/) and Tomasz Mikołajczyk will hold an introductory workshop about XAI in R. The workshop will mostly focus on tools from the DrWhy (drwhy.ai) universe.
+- [„Black is the new White” - using eXplainable Artificial Intelligence in Business](https://github.com/WhyR2019/workshops/tree/master/xai)
+    * Marcin Chlebus (University of Warsaw) will guide participants of his workshop through the variety of XAI-related packages in R focusing on the business applications
 
-
-- Afternoon session
-    - [„Black is the new White” - using eXplainable Artificial Intelligence in Business](https://github.com/WhyR2019/workshops/tree/master/xai)
-    - Marcin Chlebus (University of Warsaw) will guide participants of his workshop through the variety of XAI-related packages in R focusing on the business applications
-
-### Regular Morning Workshops (9:00 - 12:30)
+### Regular Workshops
 
 - [Straightforward introduction to Deep Learning in R (with Keras)](https://github.com/WhyR2019/workshops/tree/master/keras) Mikołaj Olszewski and Mikołaj Bogucki [iDash](https://idash.pl/)
 - [Shiny Basics](https://github.com/WhyR2019/workshops/tree/master/shiny) Theo	Roe, [Jumping Rivers](https://www.jumpingrivers.com/)
 - [To be announaced](https://github.com/WhyR2019/workshops/tree/master/high_performance)
-
-### Regular Afternoon Workshops (13:30 - 17:00)
-
 - [data.table introduction & time-series](https://github.com/WhyR2019/workshops/tree/master/datatable) Jan Gorecki, [H2O.AI](https://www.h2o.ai/)
 - [Speeding up R wih C++ (Rcpp) - from basics to more advanced applications](https://github.com/WhyR2019/workshops/tree/master/rcpp) Piotr WóJcik, [Faculty of Economic Sciences, University of Warsaw](https://www.wne.uw.edu.pl/)
 - [Potentials of R for data linkage](https://github.com/WhyR2019/workshops/tree/master/data_linkage) Radmila 	Velichkovich, [University of Neuchatel](https://www.unine.ch/)
