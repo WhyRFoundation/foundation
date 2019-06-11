@@ -16,7 +16,7 @@ output:
     keep_md: true
 ---
 
-<img src="/foundation/images/fulls/whyr2019/tlosptronam_small.jpg" class="fit image"> Why R? is one of the best opportunities to learning secrets of data science from true experts. This year we are happy to invite you for six keynote presentations, one invited workshop and eight regular workshops.
+<img src="/foundation/images/fulls/whyr2019/deadline_1_2.jpg" class="fit image"> Why R? is one of the best opportunities to learning secrets of data science from true experts. This year we are happy to invite you for six keynote presentations, one invited workshop and eight regular workshops.
 
 # About the **Why R? 2019** conference
 
