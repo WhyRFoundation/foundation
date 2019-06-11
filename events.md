@@ -12,7 +12,7 @@ Why R? 2019 Conference
 - [Submit a talk or a workshop](http://whyr.pl/2019/submit/)
 - [Register!](http://whyr.pl/2019/register/)
 
-[Why R? 2019 Pre-meetings](http://whyr.pl/2019/img/bg/europa_whyr2019_15_05.jpg)
+[Why R? 2019 Pre-meetings](http://whyr.pl/2019/img/bg/europa_whyr2019_armenia.jpg)
 
 ### 2018
 
