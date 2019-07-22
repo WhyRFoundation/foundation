@@ -25,9 +25,9 @@ Know tools designed to prepare data visualizations? Familiar with data visualiza
 
 ### Data visualization tools - Workshops
 
-On an evening before the hackathon, we plan a small session of free workshops related to data visualization tools
+On an ealry morning before the hackathon, we plan a small session of free workshops related to data visualization tools
 
-Shiny, python Dash, d3.js, Tableau, PowerBI, ggplot2, Excel options, Adobe photoshop/illustrator.
+Tableau, ggplot2, Excel options (?)
 
 It's a chance to acknowledge a new tool and compare to the ones you already know.
 
