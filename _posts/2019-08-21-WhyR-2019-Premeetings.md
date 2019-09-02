@@ -16,15 +16,15 @@ output:
     keep_md: true
 ---
 
-<img src="/foundation/images/fulls/whyr2019/europa_whyr2019_berlin_small.jpg" class="fit image"> Why R? pre-meetings are R meetups that support local R groups. They promote [Why R? 2019 Conference](http://whyr.pl/2019/). 
+<img src="/foundation/images/fulls/whyr2019/europa_whyr2019_berlin_small.jpg" class="fit image"> Why R? pre-meetings are R meetups that support local R communities. Their main goal is to promote [Why R? 2019 Conference](http://whyr.pl/2019/). 
 
-The purpose of those meetings is to provide the space for the professional networking and knowledge exchange, between practitioners and students, from the area of statistical machine learning, programming, optimization and data science fields.
+Another purpose of those meetings is to provide space for the professional networking and knowledge exchange for practitioners and students from the areas of statistical machine learning, programming, optimization and data science.
 
-We managed to co-organize already 12 R meetups around Central-Eastern Europe, among others in Warsaw, Prague, Amsterdam, Copenhagen or Wroclaw. We often provide beverages and pizza, cover transportation and accomodation costs for speakers and pay for the after party. Thanks to those meetings we had a chance to understand needs and areas of interest of R users around the Europe. 
+We have already managed to co-organize 12 R meetups around Central-Eastern Europe, among others in Warsaw, Prague, Amsterdam, Copenhagen or Wroclaw. We often provide beverages and pizza, cover transportation and accomodation costs for speakers and pay for the after party. Such meetings are a great opportunity to understand the needs and areas of interest of R users around the Europe.
 
-*Those meetings would not happen without the help, time and the energy that local R hosts invested in this project!*
+*Those meetings would not happen without the help of local R hosts who have invested a lot of time and energy in this project!*
 
-If you'd like to organize R meetup in your city, and are looking for the support to cover snacks or transport for the speakers, do not hesitate to contact us under kontakt_at_whyr.pl We would be more than happy to brainstorm the potential use case for presentations, share ideas for the networking and suggest speakers in your close region. 
+If you want to organize R meetup in your city and you are looking for the support to cover the costs of snacks or transport for the speakers, you should contact us via kontakt_at_whyr.pl. We would be more than happy to suggest the potential use cases for presentations, share ideas for the networking and help to find speakers in your close region. 
 
 # Register for Why R?!
 
@@ -32,7 +32,7 @@ Why R? pre-meetings also promote [Why R? 2019 Conference](http://whyr.pl/2019/) 
 
 <img src="/foundation/images/fulls/whyr2019/timeline_update_small.jpg" class="fit image">
 
-The Regular registration ends August 31st! It's the last chance to get tickets in the decent prices, before the Late registration starts.
+The Regular registration ends on 31st August! It's the last chance to get tickets in the reasonable prices, before the Late registration starts.
 
 [Register here](http://whyr.pl/2019/register/) and see you on the conference!
 
