@@ -60,7 +60,7 @@ The following events will take place during Why R? 2019 conference:
 
 # Pre-meetings
 
-We are organizing pre-meetings in many European cities to cultivate the R experience of knowledge sharing. If you have doubts about visiting the upcoming event, you can discover photos and presentations from the previous ones and make sure whether you are interested. There are still few meetings that may be organized and are not yet added to the map. If you are interested in co-organizing a Why R? pre-meeting in your city, let us know (via contact_at_whyr.pl). The [Why R? Foundation](http://whyr.pl/foundation/#blog) can help you search for the speakers!
+We are organizing pre-meetings in many European cities to cultivate the R experience of knowledge sharing. If you have doubts about visiting the upcoming event, you can discover photos and presentations from the previous ones and make sure whether you are interested. There are still few meetings that may be organized and are not yet added to the map. If you are interested in co-organizing a Why R? pre-meeting in your city, let us know (via kontakt_at_whyr.pl). The [Why R? Foundation](http://whyr.pl/foundation/#blog) can help you search for the speakers!
 <img src="/foundation/images/fulls/whyr2019/europa_whyr2019_06_05.jpg" class="fit image">
 
 
