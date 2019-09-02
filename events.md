@@ -12,8 +12,8 @@ Why R? 2019 Conference
 - [Register!](http://whyr.pl/2019/register/)
 
 WHy R? 2019 Hackathon
-- [Website](http://whyr.pl/2019/hackathon/)
-- [Register!](http://whyr.pl/2019/register/)
+- [Website](http://whyr.pl/foundation/2019/hackathon/)
+- [Register!](http://whyr.pl/2019/hackathon/register/)
 
 
 [Why R? 2019 Pre-meetings](http://whyr.pl/2019/img/bg/europa_whyr2019_armenia.jpg)
