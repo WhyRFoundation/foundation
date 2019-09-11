@@ -112,6 +112,8 @@ The Data Visualizations Hackathon is a free event. However, the registration is 
 
 Please register for free here: [whyr.pl/2019/hackathon/register/](https://docs.google.com/forms/d/e/1FAIpQLScCC8nq1MaFrSRwyaSqMNEMOKzDRAXlRgGn-EjVPh-qoov4cA/viewform?vc=0&c=0&w=1&usp=mail_form_link)
 
+Deadline for the registration is 13th September (end of day).!
+
 ### Event Details
 
 - Place: Faculty of Economic Sciences, University of Warsaw
