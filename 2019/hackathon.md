@@ -11,7 +11,7 @@ robots: noindex
 |:---------|:-------------|:-------------|
 | 1. [Why data visualizations?](#why-data-visualizations) | 2. [Why Hackathon?](#why-hackathon) |  3. [The challenge](#the-challenge) |
 | 4. [Competition Rules](#competition-rules) | 5. [Mentors and Judges](#mentors-and-judges) | 6. [Competition Rules](#fourth-examplehttpwwwfourthexamplecom) |
-| 7. [For whom?](#for-whom) | 8. [Teams](#teams) | 9. [Registration](#registration) |
+| 7. [For whom?](#for-whom) | 8. [Teams](#teams) | 9. [Registration (closed)](#registration) |
 | 10. [Event details](#event details) | 11. [Organizers](#organizers) | 12. [Confernece](whyr.pl/2019/) |
 
 ### Why data visualizations?
@@ -106,13 +106,11 @@ During the registration we will collect the list of your skills to adjust the di
 This can also help us create teams if you are unable to find one!
 
 
-### Registration
+### Registration (closed)
 
 The Data Visualizations Hackathon is a free event. However, the registration is required. This will allow organizers to book a place with enough space and provide a sufficient amount of coffee, beverages, pizzas and gadgets.
 
-Please register for free here: [whyr.pl/2019/hackathon/register/](https://docs.google.com/forms/d/e/1FAIpQLScCC8nq1MaFrSRwyaSqMNEMOKzDRAXlRgGn-EjVPh-qoov4cA/viewform?vc=0&c=0&w=1&usp=mail_form_link)
-
-Deadline for the registration is 13th September (end of day).!
+On 13th September 3pm CEST we closed the registration due to the number of submissions exceeding our venue capacity!
 
 ### Event Details
 
