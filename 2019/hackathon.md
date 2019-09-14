@@ -11,8 +11,8 @@ robots: noindex
 |:---------|:-------------|:-------------|
 | 1. [Why data visualizations?](#why-data-visualizations) | 2. [Why Hackathon?](#why-hackathon) |  3. [The challenge](#the-challenge) |
 | 4. [Competition Rules](#competition-rules) | 5. [Mentors and Judges](#mentors-and-judges) | 6. [Competition Rules](#fourth-examplehttpwwwfourthexamplecom) |
-| 7. [For whom?](#for-whom) | 8. [Teams](#teams) | 9. [Registration (closed)](#registration) |
-| 10. [Event details](#event details) | 11. [Organizers](#organizers) | 12. [Confernece](whyr.pl/2019/) |
+| 7. [For whom?](#for-whom) | 8. [Teams](#teams) | 9. [Registration (closed)](#registration-closed) |
+| 10. [Event details](#event-details) | 11. [Organizers](#organizers) | 12. [Confernece](whyr.pl/2019/) |
 
 ### Why data visualizations?
 
