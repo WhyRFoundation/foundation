@@ -9,14 +9,19 @@ robots: noindex
 
 Why R? 2019 Conference
 - [Website](http://whyr.pl/2019/)
-- [Register!](http://whyr.pl/2019/register/)
+- [After Movie (TBA)]() 
+- [Photos](https://www.facebook.com/whyRconf/photos/) 
+- [Presentations](https://github.com/WhyR2019/presentations)
+- [Summary (WIP)]()
+- [Conference Report in R Journal (WIP)]()
 
-WHy R? 2019 Hackathon
+Why R? 2019 Data Visualizations Hackathon
 - [Website](http://whyr.pl/foundation/2019/hackathon/)
-- [Register!](http://whyr.pl/2019/hackathon/register/)
 
+Why R? 2019 Christmas Hackathon
+- [Website](https://www.facebook.com/events/535747016982358/)
 
-[Why R? 2019 Pre-meetings](http://whyr.pl/2019/img/bg/europa_whyr2019_armenia.jpg)
+[Why R? 2019 Pre-meetings](http://whyr.pl/2019/img/bg/europa_whyr2019_bauchi.jpg)
 
 ### 2018
 
@@ -28,7 +33,7 @@ Why R? 2018 Conference
 - [Summary](http://whyr.pl/foundation/2018/WhyR-2018-Summary/)
 - [Conference Report in R Journal](https://journal.r-project.org/archive/2018-2/whyR.pdf)
 
-[Why R? 2019 Pre-meetings](http://whyr.pl/2018/img/bg/europe2_mapa_kwiecien_light.jpg)
+[Why R? 2018 Pre-meetings](http://whyr.pl/2018/img/bg/europe2_mapa_kwiecien_light.jpg)
 
 ### 2017
 
