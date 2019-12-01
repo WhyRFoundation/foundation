@@ -73,13 +73,13 @@ Imagine other use cases you can invent, the moment you link the data with other 
 Since the event is a competition with symbolic prices, we would like to grade solutions.
 It should be an innovative presentation of data that uses data visualization techniques to show interesting insights based on the Popular Times for Places data set.
 
-> To be revealed soon!
+<img src="/foundation/images/fulls/whyr2019/hackathon/criteria.JPG" class="fit image">
 
 ### Mentors and Judges
 
 To provide solutions of the highest quality we have invited data visualization experts that will be available during the event for mentoring. At the time of closing presentations mentors will become judges of solutions and will score them based on the competition rules.
 
-> To be revealed soon!
+<img src="/foundation/images/fulls/whyr2019/hackathon/judges.JPG" class="fit image">
 
 ### For whom?
 
