@@ -76,4 +76,4 @@ robots: noindex
 - [Presentations](https://github.com/WhyR2017/prezentacje)
 - [Summary](http://r-addict.com/2017/11/27/WhyR.html)
 
-<img src="/foundation/images/fulls/whyr2017/cover2017.jpg" class="fit image">
+<img src="/foundation/images/fulls/whyr2017/cover2017.JPG" class="fit image">
