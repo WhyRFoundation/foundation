@@ -21,4 +21,8 @@ robots: noindex
 
 ## 2018
 
+<img src="/foundation/images/fulls/whyr2018/keynotes.JPG" class="image">
+
 ## 2017
+
+<img src="/foundation/images/fulls/whyr2017/keynotes.JPG" class="image">
