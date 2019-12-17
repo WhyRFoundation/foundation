@@ -16,7 +16,7 @@ FUNDACJA WHY R? / WHY R? Foundation
 - NIP 5242853074,
 - BANK: PKO BANK POLSKI SA 62 1020 1055 0000 9402 0408 1287
 
-Members of the Management Board
+Management Board
 - Kosiński Marcin Piotr (chairman),
 - Bartosz Sękiewicz (vice-chairman),
 - Agnieszka Borsuk-De Moor (vice-chairman)
