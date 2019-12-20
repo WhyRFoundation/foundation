@@ -17,11 +17,13 @@ robots: noindex
 
 <img src="/foundation/images/fulls/whyr2019/organizers_sci.JPG" class="fit image">
 
-### Community Managers
+### Community & Creative Managers
 
 - Anna Rybińska
 - Olgun Aydin
 - Michał Maj
+- Kevin O'Brien
+- Agnieszka Sitko
 
 ### Operations Managers
 
