@@ -6,6 +6,19 @@ robots: noindex
 
 <img src="/foundation/images/fulls/whyr2019/hackathon/plakat_hackathon2.jpg" class="fit image">
 
+
+### Winners
+
+Winners of the contest! From the left: Monika Kwiatkowska, Bartłomiej Karaban, Michał Miotk and Monika Krzyżanowska.
+On the right Kamil Marcin Kosiński, mentor of the event from PwC Polska - sponsor of the event! Congratulations.
+
+<img src="/foundation/images/fulls/whyr2019/hackathon/winners.JPG" class="fit image">
+
+More photos [here](https://www.facebook.com/pg/whyRconf/photos/?tab=album&album_id=990285274655715)
+
+<img src="/foundation/images/fulls/whyr2019/hackathon/ppl1.JPG" class="fit image">
+<img src="/foundation/images/fulls/whyr2019/hackathon/ppl2.JPG" class="fit image">
+
 #### Table of Contents
 
 |:---------|:-------------|:-------------|
