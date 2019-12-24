@@ -77,3 +77,7 @@ robots: noindex
 - [Summary](http://r-addict.com/2017/11/27/WhyR.html)
 
 <img src="/foundation/images/fulls/whyr2017/cover2017.JPG" class="fit image">
+
+#### [Why R? 2017 Pre-meetings](http://whyr.pl/foundation/images/fulls/whyr2017/meetings.jpg)
+
+<img src="/foundation/images/fulls/whyr2017/meetings.jpg" class="fit image">
