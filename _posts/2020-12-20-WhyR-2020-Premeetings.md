@@ -32,6 +32,7 @@ If you want to organize an R meetup in your city and you are looking for the sup
 
 <img src="http://whyr.pl/2019/img/bg/europa_whyr2019_bauchi.jpg" class="fit image">
 <img src="http://whyr.pl/2018/img/bg/europe2_mapa_kwiecien_light.jpg" class="fit image">
+<img src="/foundation/images/fulls/whyr2017/meetings.jpg" class="fit image">
 
 
 
