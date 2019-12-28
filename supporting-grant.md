@@ -8,7 +8,7 @@ robots: noindex
 Why R? Supporting Grant for Women in Data Science is an annual award granted to the extraordinary female Polish data scientists.
 
 |:-------------|:-------------|
-| [2019](#2019) |  [2018](#2018) |
+| [2019](#hanna-piotrowska-2019) |  [2018](#alicja-gosiewska-2018) |
 
 ## Hanna Piotrowska (2019)
 
