@@ -16,10 +16,10 @@ Hanna is an information designer and has graduated with honors at the Graphic De
 
 Hanna's social media:
 
- - Behance: https://www.behance.net/hannapio
- - Twitter: https://twitter.com/hannapio
- - Linkedin: https://www.linkedin.com/in/hanna-piotrowska-dyrcz-2536214b/
- - Webpage: http://hannapiotrowska.com/ 
+ - [Behance](https://www.behance.net/hannapio)
+ - [Twitter](https://twitter.com/hannapio)
+ - [LinkedIn](https://www.linkedin.com/in/hanna-piotrowska-dyrcz-2536214b/)
+ - [Webpage](http://hannapiotrowska.com/)
 
 ## Alicja Gosiewska (2018)
 
@@ -27,7 +27,7 @@ Alicja Gosiewska is a PhD student in Computer Science, keen on machine learning 
 
 Alicja's social media:
 
- - Twitter: https://twitter.com/alicjagosiewska
- - Linkedin: https://www.linkedin.com/in/alicja-gosiewska/
- - Webpage: http://gosiewska.com/
+ - [Twitter](https://twitter.com/alicjagosiewska)
+ - [Linkedin](https://www.linkedin.com/in/alicja-gosiewska/)
+ - [Webpage](http://gosiewska.com/)
 
