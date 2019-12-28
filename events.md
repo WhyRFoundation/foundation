@@ -20,6 +20,10 @@ robots: noindex
 
 <img src="/foundation/images/fulls/whyr2020/watch.jpg" class="image">
 
+#### [Why R? 2020 Pre-meetings](http://whyr.pl/foundation/images/fulls/whyr2020/meetings.jpg)
+
+<img src="http://whyr.pl/foundation/images/fulls/whyr2020/meetings.jpg" class="fit image">
+
 ## 2019
 
 #### Why R? 2019 Conference
@@ -43,7 +47,7 @@ robots: noindex
 
 #### [SatRday Gdańsk 2019](https://gdansk2019.satrdays.org/)
 
-<img src="/foundation/images/fulls/whyr2019/satrday.jpg" class="fit image">
+<img src="/foundation/images/fulls/whyr2019/satrday.JPG" class="fit image">
 
 #### [Why R? 2019 Pre-meetings](http://whyr.pl/2019/img/bg/europa_whyr2019_bauchi.jpg)
 
@@ -62,6 +66,10 @@ robots: noindex
 
 <img src="/foundation/images/fulls/whyr2018/back.jpeg" class="fit image">
 
+#### [MLR Documentathon](https://mlr-org.com/docs/2018-07-05-whyr-conference/)
+
+<img src="https://mlr-org.com/images/2018-07-05-whyr-conference/pic.jpg" class="fit image">
+
 #### [Why R? 2018 Pre-meetings](http://whyr.pl/2018/img/bg/europe2_mapa_kwiecien_light.jpg)
 
 <img src="http://whyr.pl/2018/img/bg/europe2_mapa_kwiecien_light.jpg" class="fit image">
@@ -77,6 +85,10 @@ robots: noindex
 - [Summary](http://r-addict.com/2017/11/27/WhyR.html)
 
 <img src="/foundation/images/fulls/whyr2017/cover2017.JPG" class="fit image">
+
+#### Urban Sensors Data Science Hackathon
+
+<img src="http://r-addict.com/images/fulls/whyr/hackathon1.png" class="fit image">
 
 #### [Why R? 2017 Pre-meetings](http://whyr.pl/foundation/images/fulls/whyr2017/meetings.jpg)
 
