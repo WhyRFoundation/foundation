@@ -16,7 +16,7 @@ output:
     keep_md: true
 ---
 
-<img src="/foundation/images/fulls/whyr2020/meetings.jpg" class="fit image"> Why R? pre-meetings are R meetups that support local R communities. Their main goal is to promote [Why R? 2020 Conference](http://whyr.pl/2020/) that will be held between 27-30 August in Warsaw (Poland, Europe).
+<img src="http://whyr.pl/2020/img/whyr2020/meetings.jpg" class="fit image"> Why R? pre-meetings are R meetups that support local R communities. Their main goal is to promote [Why R? 2020 Conference](http://whyr.pl/2020/) that will be held between 27-30 August in Warsaw (Poland, Europe).
 
 Another purpose of those meetings is to provide space for the professional networking and knowledge exchange for practitioners and students from the areas of statistical machine learning, programming, optimization and data science.
 

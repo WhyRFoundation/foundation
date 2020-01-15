@@ -20,9 +20,9 @@ robots: noindex
 
 <img src="/foundation/images/fulls/whyr2020/watch.jpg" class="image">
 
-#### [Why R? 2020 Pre-meetings](http://whyr.pl/foundation/images/fulls/whyr2020/meetings.jpg)
+#### [Why R? 2020 Pre-meetings](http://whyr.pl/2020/img/whyr2020/meetings.jpg)
 
-<img src="http://whyr.pl/foundation/images/fulls/whyr2020/meetings.jpg" class="fit image">
+<img src="http://whyr.pl/2020/img/whyr2020/meetings.jpg" class="fit image">
 
 ## 2019
 
