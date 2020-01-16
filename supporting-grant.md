@@ -22,6 +22,8 @@ Speaker at conferences, such as SatRday Gdańsk 2019 or Digital Cultures 2017. H
 
 Hanna's social media: [Behance](https://www.behance.net/hannapio) [Twitter](https://twitter.com/hannapio) [LinkedIn](https://www.linkedin.com/in/hanna-piotrowska-dyrcz-2536214b/) [Webpage](http://hannapiotrowska.com/)
 
+<img src="/foundation/images/fulls/supporting-grant/hp-mini.jpg" class="fit image">
+
 ## Alicja Gosiewska (2018)
 
 Alicja Gosiewska is a PhD student in Computer Science, keen on machine learning and its applications. She is interested in Interpretable Machine Learning (IML), Automated Machine Learning (AutoML), auditability of predictive models, and bioinformatics.
