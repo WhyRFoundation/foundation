@@ -24,6 +24,10 @@ robots: noindex
 
 <img src="http://whyr.pl/2020/img/whyr2020/meetings.jpg" class="fit image">
 
+#### [Support for R Forwards initiatives](https://forwards.github.io/)
+
+<img src="http://whyr.pl/2020/img/whyr2020/africa.jpeg" class="fit image">
+
 ## 2019
 
 #### Why R? 2019 Conference
