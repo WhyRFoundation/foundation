@@ -8,6 +8,8 @@ robots: noindex
 |:---------|:-------------|:-------------|:-------------|
 | [2020](#2020) | [2019](#2019) |  [2018](#2018) | [2017](#2017) |
 
+<img src="/foundation/images/fulls/ultra_map.jpg" class="image">
+
 ## 2020
 
 #### Why R? 2020 Conference
