@@ -2,7 +2,7 @@
 layout: post
 title: Why R? 2020 Conference - Registration and Call for Papers Opened
 comments: true
-published: false
+published: true
 date: 2020-03-04 14:00:00
 author: Marcin Kosiński
 categories: [conference]
