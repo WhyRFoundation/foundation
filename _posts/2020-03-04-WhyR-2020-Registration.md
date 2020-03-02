@@ -33,12 +33,12 @@ Find out our Social Media Channels: [Website](http://whyr.pl/2020/), [Facebook f
 
 # Important dates
 
-Workshop tutors will get the entrance for the lectures and workshops day for free and will get the accommodation compensated. Speakers will get the etrance for 2 days of lectures for free (workshops excluded). Lightning talks speakers will get 50% discount for 2 days of lectures (workshops excluded).
+Workshop tutors will get the entrance for the lectures and workshops' day for free and will get the accommodation compensated. Speakers will get the entrance for 2 days of lectures for free (workshops excluded). Lightning talks speakers will get a 50% discount for 2 days of lectures (workshops excluded).
 
 <img src="/foundation/images/fulls/whyr2020/timeline.jpg" class="fit image">
 <img src="/foundation/images/fulls/whyr2020/timeline_event.jpg" class="fit image">
 
-Submissions for Abstracts are format free, but please do not exceed 400 words and state clearly a chosen type of submission. 
+The abstract submissions are format free, but limited to 400 words. Remember to state clearly a type of your submission (workshop/lightning talk/oral presentation). 
 
 - The submission for Abstracts is available here: [whyr.pl/2020/submit/](http://2020.whyr.pl/submit/). 
 - One can register for the event under [whyr.pl/2020/register/](http://2020.whyr.pl/register/).
