@@ -37,7 +37,7 @@ We are more than happy to announce that Why R? 2019 Conference will be organized
 
 <img src="/foundation/images/fulls/whyr2019/timeline_small.jpg" class="fit image">
 
-Submissions for Abstracts are format free, but please do not exceed 400 words and state clearly a chosen type of submission. The submission for Abstracts is available here: [whyr.pl/2019/submit/](https://whyr2018.evenea.pl/?lang=en). One can register for the event under [whyr.pl/2019/register/](http://whyr.pl/2019/register/).
+Submissions for Abstracts are format free, but please do not exceed 400 words and state clearly a chosen type of submission. The submission for Abstracts is available here: [whyr.pl/2019/submit/](https://whyr.pl/2019/submit/). One can register for the event under [whyr.pl/2019/register/](http://whyr.pl/2019/register/).
 
 # Keynotes
 
