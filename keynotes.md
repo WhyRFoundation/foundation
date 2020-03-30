@@ -10,6 +10,7 @@ robots: noindex
 
 ## 2020
 
+<img src="/foundation/images/fulls/whyr2020/keynotes/vitek.jpg" class="image">
 <img src="/foundation/images/fulls/whyr2020/keynotes/ots.jpg" class="image">
 <img src="/foundation/images/fulls/whyr2020/keynotes/harrell.jpg" class="image">
 <img src="/foundation/images/fulls/whyr2020/keynotes/bivand.jpg" class="image">
