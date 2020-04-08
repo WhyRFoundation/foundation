@@ -19,9 +19,9 @@ Webinars are hosted each Thursday for next few weeks!
 
 # Planned talks
 
-You can see the list of planned live streams (webinars) on our YouTube channel [youtube.com/c/WhyRFoundation](https://www.youtube.com/c/WhyRFoundation)
+You can see the list of planned webinars on [youtube.com/c/WhyRFoundation](https://www.youtube.com/c/WhyRFoundation)
 
-<img src="/foundation/images/fulls/webinars/upcoming.JPG" class="fit image">
+<img src="/foundation/images/fulls/webinars/upcoming2.png" class="fit image">
 
 # The first talk
 
@@ -33,8 +33,10 @@ which was a very good suite for teachers facing the need of the remote R teachin
 
 Speaker's biogram and the abstract of the talk was available [on a meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/269589118/) and on [the webinar url](https://www.youtube.com/watch?v=PnyCR7q4P4Q) that is also visible from [youtube.com/c/WhyRFoundation](https://www.youtube.com/c/WhyRFoundation) YouTube channel.
 
-We had over 200 unique participants over the course of this webinar, with more than 100 participants during the whole event.
-After a week we observed 800 views of the talk - https://www.youtube.com/watch?v=PnyCR7q4P4Q
+Performance [of the talk](https://youtube.com/watch?v=PnyCR7q4P4Q)
+- We had over 200 unique participants over the course of this webinar, 
+- with more than 100 participants during the whole event.
+- After a week we observed 800 views of the talk.
 
 
 # Stay up to date
