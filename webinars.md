@@ -29,7 +29,7 @@ Teaching Machine Learning online
 
 <img src="/foundation/images/fulls/webinars/heidi.jpg" class="fit image">
 
-On April 16th (8:00pm GMT+2) we will be delightful to host Heidi Seibold from University of Munich ([Department of Statistics joins  LMU Open Science Center](https://statsatlmu.tumblr.com/))
+On April 16th (8:00pm GMT+2) we will be delightful to host [Heidi Seibold](https://www.researchgate.net/profile/Heidi_Seibold) from University of Munich ([Department of Statistics joins  LMU Open Science Center](https://statsatlmu.tumblr.com/))
 ). Heidi will share her experiences on Teaching Machine Learning online - very popular topic in the current situation of COVID-19. The abstract and the biogram are below.
 
 See you on the [Webinar](https://www.youtube.com/watch?v=jPQJTVa-GsQ)!
