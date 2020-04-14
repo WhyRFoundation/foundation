@@ -23,7 +23,39 @@ You can see the list of planned webinars on [youtube.com/c/WhyRFoundation](https
 
 <img src="/foundation/images/fulls/webinars/upcoming2.png" class="fit image">
 
-# The first talk
+# Heidi Seibold 
+
+Teaching Machine Learning online
+
+<img src="/foundation/images/fulls/webinars/heidi.jpg" class="fit image">
+
+On April 16th (8:00pm GMT+2) we will be delightful to host Heidi Seibold from University of Munich ([Department of Statistics joins  LMU Open Science Center](https://statsatlmu.tumblr.com/))
+). Heidi will share her experiences on Teaching Machine Learning online - very popular topic in the current situation of COVID-19. The abstract and the biogram are below.
+
+See you on the [Webinar](https://www.youtube.com/watch?v=jPQJTVa-GsQ)!
+
+**Abstract**
+The course "Introduction to Machine Learning" is designed as a flipped classroom course. That means the lecture part of the course is presented online with videos, online quizzes and coding exercises while the in-person classes are spent answering questions and solving and discussing exercises in an interactive fashion. 
+Due to the COVID-19 crisis, we were not able to teach the class in person this year but had to go virtual. In this talk I will discuss how we successfully moved online and how you can contribute and copy what we did using our openly licensed course material (see https://compstat-lmu.github.io/lectur...
+). 
+
+
+**Bio**
+Heidi Seibold is a medical AI researcher, open science advocate and research software engineer. She believes that good research is reproducible, reusable and open and spends most of her time trying to improve the way we do research. She teaches machine learning, R, and open and reproducible research.
+
+Heidi studied statistics at LMU Munich and did her PhD in computational Biostatistics at the University of Zurich. She worked as lead of the DIFUTURE analysis group, as deputy professor of biostatistics at LMU, and is currently affiliated with the Munich Center of Machine Learning (LMU Munich), the University of Bielefeld, and the Helmholtz Zentrum München. Heidi is a chair of useR! 2020 European Hub in Munich (https://user2020muc.r-project.org/).
+
+# Previous talks
+
+## Olgun Aydin
+
+<img src="/foundation/images/fulls/webinars/olgun.jpg" class="fit image">
+
+Olgun Aydin, Senior Data Scientist at PwC was kind enought to give a presentation about [shinyMobile](https://cran.r-project.org/web/packages/shinyMobile/index.html) (by [RinteRface](https://github.com/RinteRface)).
+
+You can check the biogram and the abstract [on a meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/269754753/) and on [the webinar url](https://www.youtube.com/watch?v=TJsu0S9_WY4) that is also visible from [youtube.com/c/WhyRFoundation](https://www.youtube.com/c/WhyRFoundation) YouTube channel.
+
+## Achim Zeileis
 
 <img src="/foundation/images/fulls/webinars/achim.jpg" class="fit image">
 
@@ -32,12 +64,6 @@ The topic of the webinar was **R/exams: A One-for-All Exams Generator - Online T
 which was a very good suite for teachers facing the need of the remote R teaching!
 
 Speaker's biogram and the abstract of the talk was available [on a meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/269589118/) and on [the webinar url](https://www.youtube.com/watch?v=PnyCR7q4P4Q) that is also visible from [youtube.com/c/WhyRFoundation](https://www.youtube.com/c/WhyRFoundation) YouTube channel.
-
-Performance [of the talk](https://youtube.com/watch?v=PnyCR7q4P4Q)
-- We had over 200 unique participants over the course of this webinar, 
-- with more than 100 participants during the whole event.
-- After a week we observed 800 views of the talk.
-
 
 # Stay up to date
 
