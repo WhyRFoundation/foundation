@@ -29,15 +29,13 @@ Teaching Machine Learning online
 
 <img src="/foundation/images/fulls/webinars/heidi.jpg" class="fit image">
 
-On April 16th (8:00pm GMT+2) we will be delightful to host [Heidi Seibold](https://www.researchgate.net/profile/Heidi_Seibold) from University of Munich ([Department of Statistics joins  LMU Open Science Center](https://statsatlmu.tumblr.com/))
-). Heidi will share her experiences on Teaching Machine Learning online - very popular topic in the current situation of COVID-19. The abstract and the biogram are below.
+On April 16th (8:00pm GMT+2) we will be delightful to host [Heidi Seibold](https://www.researchgate.net/profile/Heidi_Seibold) from [Department of Statistics joins LMU Open Science Center](https://statsatlmu.tumblr.com/) (University of Munich). Heidi will share her experiences on Teaching Machine Learning online - very popular topic in the current situation of COVID-19. The abstract and the biogram are below.
 
 See you on the [Webinar](https://www.youtube.com/watch?v=jPQJTVa-GsQ)!
 
 **Abstract**
 The course "Introduction to Machine Learning" is designed as a flipped classroom course. That means the lecture part of the course is presented online with videos, online quizzes and coding exercises while the in-person classes are spent answering questions and solving and discussing exercises in an interactive fashion. 
-Due to the COVID-19 crisis, we were not able to teach the class in person this year but had to go virtual. In this talk I will discuss how we successfully moved online and how you can contribute and copy what we did using our openly licensed course material (see https://compstat-lmu.github.io/lectur...
-). 
+Due to the COVID-19 crisis, we were not able to teach the class in person this year but had to go virtual. In this talk I will discuss how we successfully moved online and how you can contribute and copy what we did using our openly licensed course material (see https://compstat-lmu.github.io/lecture_i2ml/). 
 
 
 **Bio**
