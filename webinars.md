@@ -23,27 +23,38 @@ You can see the list of planned webinars on [youtube.com/c/WhyRFoundation](https
 
 <img src="/foundation/images/fulls/webinars/upcoming2.png" class="fit image">
 
-# Heidi Seibold 
 
-Teaching Machine Learning online
+# Next talk 
+
+## Robin Lovelace + Jakub Nowosad - Recent changes in R spatial and how to be ready for them
+
+<img src="/foundation/images/fulls/webinars/spatial.jpg" class="fit image">
+
+### Abstract
+
+Currently, hundreds of R packages are related to spatial data analysis. They range from ecology and earth observation, through hydrology and soil science, to transportation and demography. These packages support various stages of analysis, including data preparation, visualization, modeling, or communicating the results. One common feature of most R spatial packages is that they are built upon some of the main representations of spatial data in R, available in the sf, sp, raster, terra, or stars package. Those packages are also not entirely independent. They are using external libraries, namely GEOS for spatial data operations, GDAL for reading and writing spatial data, and PROJ for conversions of spatial coordinates.
+
+Therefore, R spatial packages are interwoven with each other and depend partially on external software developments. This has several positives, including the ability to use cutting-edge features and algorithms. On the other hand, it also makes R spatial packages vulnerable to changes in the upstream packages and libraries.
+
+In the first part of the talk, we will showcase several recent advances in R packages. It includes the largest recent change related to the developments in the PROJ library. We will explain why the changes happened and how they impact R users.
+The second part will focus on how to prepare for the changes, including computer set-up and running R spatial packages using Docker. We will outline important considerations when setting-up operating systems for geographic R packages. To reduce set-up times you can use geographic R packages Docker, a flexible and scalable technology containerization technology. Docker can run on modern computers and on your browser via services such as Binder, greatly reducing set-up times. Discussing these set-up options, and questions of compatibility between geographic R packages and paradigms such as the tidyverse and data.table, will ensure that after the talk everyone can empower themselves with open source software for geographic data analysis in a powerful and flexible statistical programming environment.
+
+
+#### Bios
+Jakub is an assistant professor in the Institute of Geoecology and Geoinformation at the Adam Mickiewicz University, Poznan, Poland. He is a computational geographer working at the intersection between geocomputation and the environmental sciences. His research has focused on developing and applying spatial methods to broaden our understanding of processes and patterns in the environment. Another vital part of his work is to create, collaborate on, and improve geocomputational software. He is a co-author of the Geocomputation with R book and many R packages, including landscapemetrics, sabre, and climate.
+
+Robin is associate professor at the Institute for Transport Studies (ITS) and Leeds Institute for Data Analytics (LIDA), University of Leeds, UK. His research focuses on geocomputation and reproducible data science for evidence-based policy-making. Decarbonising the global economy while improving health and environmental outcomes is a major problem solving challenge. Robin’s research supports solutions by generating evidence and tools enabling evidence-based investment in efficient and healthy modes of transport at local, city and national scales. Robin is the Lead Developer of the award-winning Propensity to Cycle Tool (see www.pct.bike ), convenor of the Transport Data Science module and workshop series, and co-author of popular packages, papers, and books, including Geocomputation with R.
+
+# Previous talks
+
+## Heidi Seibold 
 
 <img src="/foundation/images/fulls/webinars/heidi.jpg" class="fit image">
 
-On April 16th (8:00pm GMT+2) we will be delightful to host [Heidi Seibold](https://www.researchgate.net/profile/Heidi_Seibold) from [Department of Statistics joins LMU Open Science Center](https://statsatlmu.tumblr.com/) (University of Munich). Heidi will share her experiences on Teaching Machine Learning online - very popular topic in the current situation of COVID-19. The abstract and the biogram are below.
+[Heidi Seibold](https://www.researchgate.net/profile/Heidi_Seibold), [Department of Statistics (collaboration with LMU Open Science Center)](https://statsatlmu.tumblr.com/) (University of Munich) talked about **Teaching Machine Learning online**.
 
-See you on the [Webinar](https://www.youtube.com/watch?v=jPQJTVa-GsQ)!
+Her biogram and the abstract of the talk are available [on a meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/269807399/) and on [webinar](https://www.youtube.com/watch?v=jPQJTVa-GsQ) that is also visible from [youtube.com/c/WhyRFoundation](https://www.youtube.com/c/WhyRFoundation) YouTube channel.
 
-**Abstract**
-The course "Introduction to Machine Learning" is designed as a flipped classroom course. That means the lecture part of the course is presented online with videos, online quizzes and coding exercises while the in-person classes are spent answering questions and solving and discussing exercises in an interactive fashion. 
-Due to the COVID-19 crisis, we were not able to teach the class in person this year but had to go virtual. In this talk I will discuss how we successfully moved online and how you can contribute and copy what we did using our openly licensed course material (see https://compstat-lmu.github.io/lecture_i2ml/). 
-
-
-**Bio**
-Heidi Seibold is a medical AI researcher, open science advocate and research software engineer. She believes that good research is reproducible, reusable and open and spends most of her time trying to improve the way we do research. She teaches machine learning, R, and open and reproducible research.
-
-Heidi studied statistics at LMU Munich and did her PhD in computational Biostatistics at the University of Zurich. She worked as lead of the DIFUTURE analysis group, as deputy professor of biostatistics at LMU, and is currently affiliated with the Munich Center of Machine Learning (LMU Munich), the University of Bielefeld, and the Helmholtz Zentrum München. Heidi is a chair of useR! 2020 European Hub in Munich (https://user2020muc.r-project.org/).
-
-# Previous talks
 
 ## Olgun Aydin
 
