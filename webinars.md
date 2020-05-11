@@ -31,9 +31,17 @@ You can see the list of planned webinars on [youtube.com/c/WhyRFoundation](https
 - [webinar](https://www.youtube.com/watch?v=4r8K3GO5wk4)
 
 
+## 2020-05-26 Uplift modeling for marketing campaigns
+
+<img src="/foundation/images/fulls/webinars/mck.jpg" class="fit image">
+
+- speakers: Mateusz Zawisza, PhD; Armin Reinert, PhD
+- [meetup event](https://www.meetup.com/pl-PL/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/270506190/)
+- [webinar](https://www.youtube.com/watch?v=mZCBBGlQWcE)
+
 ## 2020-05-21 Scalable Automatic Machine Learning in R with H2O AutoML
 
-<img src="/foundation/images/fulls/webinars/webinars.jpg" class="fit image">
+<img src="/foundation/images/fulls/webinars/erin.jpg" class="fit image">
 
 - speakers: Erin LeDell
 - [meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/270193513/)
@@ -42,7 +50,7 @@ You can see the list of planned webinars on [youtube.com/c/WhyRFoundation](https
 
 ## 2020-05-14 Humanitarian Data Analysis with R
 
-<img src="/foundation/images/fulls/webinars/nina.jpg" class="fit image">
+<img src="/foundation/images/fulls/webinars/dicko.jpg" class="fit image">
 
 - speaker: Ahmadou H. Dicko 
 - [meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/270193497/)
@@ -51,7 +59,7 @@ You can see the list of planned webinars on [youtube.com/c/WhyRFoundation](https
 
 ## 2020-05-05 Advanced Data Preparation for Supervised Machine Learning
 
-<img src="/foundation/images/fulls/webinars/.jpg" class="fit image">
+<img src="/foundation/images/fulls/webinars/nina.jpg" class="fit image">
 
 - speakers: Nina Zumel + John Mount
 - [meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/270193478/)
@@ -78,7 +86,7 @@ You can see the list of planned webinars on [youtube.com/c/WhyRFoundation](https
 
 <img src="/foundation/images/fulls/webinars/heidi.jpg" class="fit image">
 
-- speaker: [Heidi Seibold](https://www.researchgate.net/profile/Heidi_Seibold), [Department of Statistics (collaboration with LMU Open Science Center)](https://statsatlmu.tumblr.com/) (University of Munich)
+- speaker: [Heidi Seibold](https://www.researchgate.net/profile/Heidi_Seibold), [Department of Statistics](https://statsatlmu.tumblr.com/) (University of Munich)
 - [meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/269807399/) 
 - [webinar](https://www.youtube.com/watch?v=jPQJTVa-GsQ) 
 
@@ -95,7 +103,7 @@ You can see the list of planned webinars on [youtube.com/c/WhyRFoundation](https
 
 <img src="/foundation/images/fulls/webinars/achim.jpg" class="fit image">
 
-- speaker: [Achim Zeileis from Universität Innsbruck](https://eeecon.uibk.ac.at/~zeileis/)
+- speaker: [Achim Zeileis, Universität Innsbruck](https://eeecon.uibk.ac.at/~zeileis/)
 - [meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/269589118/) 
 - [webinar](https://www.youtube.com/watch?v=PnyCR7q4P4Q) 
 
