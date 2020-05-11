@@ -19,7 +19,12 @@ Webinars are hosted each Thursday for next few weeks!
 
 # Planned talks
 
-You can see the list of planned webinars on [youtube.com/c/WhyRFoundation](https://www.youtube.com/c/WhyRFoundation)
+You can see the list of planned webinars on [youtube.com/WhyRFoundation](https://www.youtube.com/c/WhyRFoundation)
+
+* 2020-05-28 Pipelines and AutoML with mlr3
+* 2020-05-26 Uplift modeling for marketing campaigns
+* 2020-05-26 Uplift modeling for marketing campaigns
+{:toc}
 
 
 ## 2020-05-28 Pipelines and AutoML with mlr3
