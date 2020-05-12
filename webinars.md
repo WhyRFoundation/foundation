@@ -12,7 +12,7 @@ that uploaded to [Why R? YouTube channel](https://www.youtube.com/c/WhyRFoundati
 
 Webinars are hosted each Thursday for next few weeks!
 
-- channel: [youtube.com/c/WhyRFoundation](https://www.youtube.com/c/WhyRFoundation)
+- channel: [youtube.com/WhyRFoundation](https://www.youtube.com/c/WhyRFoundation)
 - date: every Thursday **8:00 pm GMT+2**
 - format: 45 minutes long talk + 10 minutes for Q&A 
 - comments: ask questions on YouTube live chat
