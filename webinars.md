@@ -34,7 +34,7 @@ You can see the list of planned webinars on [youtube.com/WhyRFoundation](https:/
 - Website: [2020.erum.io](https://2020.erum.io/)
 - [e-Rum 2020 YouTube channel](https://www.youtube.com/channel/UCDOoQShiQHE7_C-wuLqFJ7w)
 
-## 2020-06-11 Understanding Word Embeddings
+## 2020-06-11 R for reproducibility: how R is revolutionizing ecological science
 
 <img src="/foundation/images/fulls/webinars/maureen.jpg" class="fit image">
 
