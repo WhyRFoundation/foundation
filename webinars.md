@@ -21,10 +21,27 @@ Webinars are hosted each Thursday for next few weeks!
 
 You can see the list of planned webinars on [youtube.com/WhyRFoundation](https://www.youtube.com/c/WhyRFoundation)
 
+* 2020-06-18 Pause for 2020.erum.io 2020-06-17/20
 * 2020-06-04 Understanding Word Embeddings
 * 2020-05-28 Pipelines and AutoML with mlr3
 * 2020-05-26 Uplift modeling for marketing campaigns
 {:toc}
+
+## 2020-06-18 Pause for 2020.erum.io 2020-06-17/20
+
+<img src="/foundation/images/fulls/webinars/erum.jpg" class="fit image">
+- The European R Users Meeting
+- Website: [2020.erum.io](https://2020.erum.io/)
+- [e-Rum 2020 YouTube channel](https://www.youtube.com/channel/UCDOoQShiQHE7_C-wuLqFJ7w)
+
+## 2020-06-11 Understanding Word Embeddings
+
+<img src="/foundation/images/fulls/webinars/maureen.jpg" class="fit image">
+
+- speaker: Maureen Williams
+- [meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/270606861)
+- [webinar](https://youtu.be/vPDDpwGfvLc)
+
 
 ## 2020-06-04 Understanding Word Embeddings
 
