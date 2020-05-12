@@ -21,10 +21,18 @@ Webinars are hosted each Thursday for next few weeks!
 
 You can see the list of planned webinars on [youtube.com/WhyRFoundation](https://www.youtube.com/c/WhyRFoundation)
 
+* 2020-06-04 Understanding Word Embeddings
 * 2020-05-28 Pipelines and AutoML with mlr3
 * 2020-05-26 Uplift modeling for marketing campaigns
-* 2020-05-26 Uplift modeling for marketing campaigns
 {:toc}
+
+## 2020-06-04 Understanding Word Embeddings
+
+<img src="/foundation/images/fulls/webinars/julia.jpg" class="fit image">
+
+- speaker: Julia Silge
+- [meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/270606680/)
+- [webinar](https://youtu.be/ke03DGvT8uU)
 
 
 ## 2020-05-28 Pipelines and AutoML with mlr3
