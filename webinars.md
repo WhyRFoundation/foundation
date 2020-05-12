@@ -22,9 +22,8 @@ Webinars are hosted each Thursday for next few weeks!
 You can see the list of planned webinars on [youtube.com/WhyRFoundation](https://www.youtube.com/c/WhyRFoundation)
 
 * 2020-06-18 Pause for 2020.erum.io 2020-06-17/20
+* 2020-06-11 R for reproducibility: how R is revolutionizing ecological science
 * 2020-06-04 Understanding Word Embeddings
-* 2020-05-28 Pipelines and AutoML with mlr3
-* 2020-05-26 Uplift modeling for marketing campaigns
 {:toc}
 
 ## 2020-06-18 Pause for 2020.erum.io 2020-06-17/20
