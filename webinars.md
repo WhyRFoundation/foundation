@@ -22,7 +22,7 @@ Webinars are hosted each Thursday for next few weeks!
 You can see the list of planned webinars on [youtube.com/WhyRFoundation](https://www.youtube.com/c/WhyRFoundation)
 
 * 2020-06-18 Pause for 2020.erum.io 2020-06-17/20
-* 2020-06-11 R for reproducibility: how R is revolutionizing ecological science
+* 2020-06-11 Using R with High Performance Tools on a Windows Laptop
 * 2020-06-04 Understanding Word Embeddings
 {:toc}
 
@@ -33,11 +33,11 @@ You can see the list of planned webinars on [youtube.com/WhyRFoundation](https:/
 - Website: [2020.erum.io](https://2020.erum.io/)
 - [e-Rum 2020 YouTube channel](https://www.youtube.com/channel/UCDOoQShiQHE7_C-wuLqFJ7w)
 
-## 2020-06-11 R for reproducibility: how R is revolutionizing ecological science
+## 2020-06-11 Using R with High Performance Tools on a Windows Laptop
 
-<img src="/foundation/images/fulls/webinars/maureen.jpg" class="fit image">
+<img src="/foundation/images/fulls/webinars/erin_h.jpg" class="fit image">
 
-- speaker: Maureen Williams
+- speaker: Erin Hodgess
 - [meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/270606861)
 - [webinar](https://youtu.be/vPDDpwGfvLc)
 
