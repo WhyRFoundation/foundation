@@ -22,7 +22,7 @@ output:
 
 As the meeting is held in English we invite R users from all over the globe!
 
-We will stream the conference on [youtube.com/WhyRFoundation](youtube.com/WhyRFoundation).
+We will stream the conference on [youtube.com/WhyRFoundation](https://youtube.com/WhyRFoundation).
 
 # Table of contents
 
@@ -62,7 +62,7 @@ Among multiple workshops we are planning to conduct, the undermentioned speakers
 
 # 2020 Webinars
 
-After the spread of COVID-19 we decided to start remote R Webinars. They are hosted every Thursday, 6:00 pm UTC on [youtube.com/WhyRFoundation](youtube.com/WhyRFoundation).
+After the spread of COVID-19 we decided to start remote R Webinars. They are hosted every Thursday, 6:00 pm UTC on [youtube.com/WhyRFoundation](https://youtube.com/WhyRFoundation).
 
 Check scheduled and past talks at [whyr.pl/webinars/](http://whyr.pl/webinars/)
 
