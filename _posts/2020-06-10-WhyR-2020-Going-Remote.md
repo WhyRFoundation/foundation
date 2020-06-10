@@ -20,7 +20,7 @@ output:
 
 **Because of the global pandemic, we decided to transform Why R? 2020 into the online event. Also due to the COVID 2019 outbreak, we rescheduled Why R? 2020 from 2020-08-27/30 to 2020-09-24/27. We hope to meet you virtually!.**
 
-As the meeting is held remotely and in English we invite R users from all over the globe!
+As the meeting is held in English we invite R users from all over the globe!
 
 We will stream the conference on [youtube.com/WhyRFoundation](youtube.com/WhyRFoundation).
 
