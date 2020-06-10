@@ -24,14 +24,12 @@ As the meeting is held remotely and in English we invite R users from all over t
 
 We will stream the conference on [youtube.com/WhyRFoundation](youtube.com/WhyRFoundation).
 
+# Table of contents
 
 * About **Why R? 2020** conference
 * Important dates
 * Keynotes
 {:toc}
-
-
-Find out our Social Media Channels: [Website](http://whyr.pl/2020/), [Facebook fanpage](https://www.facebook.com/whyRconf/) and [the event](https://www.facebook.com/events/338207787063345/), [Twitter](https://twitter.com/whyRconf), [LinkedIn](https://www.linkedin.com/company/why-r/) and [Our Slack](https://join.slack.com/t/whyr/shared_invite/enQtNzcwMjExODk0NzM3LTRkMjhkYzliYzc5MGJhMzRlMzc1YzM0ZWJmNjM4MGNmMmM0MzYzZWJjYjhkZWM4ODA3MGY4MTUwNmJhMGNjNmY)
 
 # Important dates
 
@@ -74,4 +72,13 @@ Check scheduled and past talks at [whyr.pl/webinars/](http://whyr.pl/webinars/)
 
 During pre-covid era, we were organizing pre-meetings in many European cities to cultivate the R experience of knowledge sharing. If you have doubts about visiting the upcoming event, you can discover [photos](https://www.facebook.com/pg/whyRconf/photos/?tab=albums&ref=page_internal) and [presentations](https://www.youtube.com/playlist?list=PLKMUlj_pGn_mlL_Cvpl-H74EP6kftq76J) from the previous ones and make sure whether you are interested.
 <img src="https://2020.whyr.pl/img/meetings.jpg" class="fit image">
+
+# Our Social Media channels
+
+Find out our Social Media channels: 
+- [Website](http://whyr.pl/2020/), 
+- [Facebook fanpage](https://www.facebook.com/whyRconf/) and [the event](https://www.facebook.com/events/338207787063345/), 
+- [Twitter](https://twitter.com/whyRconf), 
+- [LinkedIn](https://www.linkedin.com/company/why-r/) 
+- and [Our Slack](https://join.slack.com/t/whyr/shared_invite/enQtNzcwMjExODk0NzM3LTRkMjhkYzliYzc5MGJhMzRlMzc1YzM0ZWJmNjM4MGNmMmM0MzYzZWJjYjhkZWM4ODA3MGY4MTUwNmJhMGNjNmY)
 
