@@ -73,7 +73,7 @@ Check scheduled and past talks at [whyr.pl/webinars/](http://whyr.pl/webinars/)
 During pre-covid era, we were organizing pre-meetings in many European cities to cultivate the R experience of knowledge sharing. If you have doubts about visiting the upcoming event, you can discover [photos](https://www.facebook.com/pg/whyRconf/photos/?tab=albums&ref=page_internal) and [presentations](https://www.youtube.com/playlist?list=PLKMUlj_pGn_mlL_Cvpl-H74EP6kftq76J) from the previous ones and make sure whether you are interested.
 <img src="https://2020.whyr.pl/img/meetings.jpg" class="fit image">
 
-# Our Social Media channels
+# Our Social Media
 
 Find out our Social Media channels: 
 - [Website](http://whyr.pl/2020/), 
