@@ -24,7 +24,7 @@ As the meeting is held in English we invite R users from all over the globe!
 
 We will stream the conference on [youtube.com/WhyRFoundation](https://youtube.com/WhyRFoundation).
 
-# Table of contents
+> Table of contents
 
 * About **Why R? 2020** conference
 * Important dates
