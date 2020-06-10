@@ -50,7 +50,7 @@ The abstract submissions are format free, but limited to 400 words. Remember to 
 
 # Keynotes
 
-<img src="/foundation/images/fulls/whyr2020/all_keynotes.JPG" class="fit image">
+<img src="/foundation/images/fulls/whyr2020/keynotes/all_keynotes.JPG" class="fit image">
 
 Among multiple workshops we are planning to conduct, the undermentioned speakers have confirmed their talks at Why R? 2020: 
 - Frank Harrell (R foundation, Professor of Biostatistics, Vanderbit University)
