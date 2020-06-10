@@ -18,7 +18,7 @@ output:
 
 <img src="/foundation/images/fulls/whyr2020/updated_cover2020_small.jpg" class="fit image"> Three editions of [Why R?](http://whyr.pl/) conferences were a great networking success. During each edition, we gathered around 250-300 R enthusiasts from Europe and we managed to carry out more than 100 presentations and 35 workshops over 3 years. Desire for a bigger event led us to the 4th edition!
 
-**Because of the global pandemic, we decided to transform Why R? 2020 into the online event. Also due to the COVID 2019 outbreak, we rescheduled Why R? 2020 from 27-30.08 to 24-27.09. We hope to meet you at the conference virtually!. Thank you for your understanding.**
+**Because of the global pandemic, we decided to transform Why R? 2020 into the online event. Also due to the COVID 2019 outbreak, we rescheduled Why R? 2020 from 2020-08-27/30 to 2020-09-24/27. We hope to meet you at the conference virtually!. Thank you for your understanding.**
 
 As the meeting is held remotely and in English we invite R users from all over the globe!
 
