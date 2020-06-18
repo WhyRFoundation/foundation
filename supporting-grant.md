@@ -5,8 +5,6 @@ permalink: /supporting-grant/
 robots: noindex
 ---
 
-> Table of contents
-
 * Motivation
 * Dates
 * Terms and Conditions
@@ -14,16 +12,13 @@ robots: noindex
 
 # Motivation
 
--
--
--
 
 Why R? Supporting Grant for Women in Data Science is an annual award granted to the extraordinary female Polish data scientists.
 
 # Dates
 
-- Grant Applications should be submitted through a dedicated form by 16 August 2020.
-- Grant Holder selection information will be published by 20 Sep 2020 on the Why R? Foundation's website.
+- Grant Applications should be submitted through a dedicated form by **16th August 2020**.
+- Grant Holder selection information will be published by **20th September 2020** on the Why R? Foundation's website.
 
 Grant Applicants will be notified about decisions by an e-mail.
 
@@ -44,13 +39,11 @@ If you want to apply for the grant please fill [this form](https://forms.gle/pHr
 
 # Partners
 
-More to be added!
-
 <img src="/foundation/images/fulls/supporting-grant/wimlds2.png" class="fit image">
 
 # Acknowledgements
 
-> Terms and Conditions of award and disbursement of Why R? Foundation grants for exceptional women scientists from the field of data science were prepared by Leśniewski, Borkiewicz & Partners.
+Terms and Conditions of award and disbursement of Why R? Foundation grants for exceptional women scientists from the field of data science were prepared by Leśniewski, Borkiewicz & Partners.
 Leśniewski, Borkiewicz & Partners is a modern, boutique law firm with a business approach. LB&P works mainly with clients from IT, TMT and e-commerce areas, both within defined projects and as a comprehensive, ongoing service. The main areas of LB&P specialization are negotiating commercial contracts, mergers, acquisitions and restructuring (M&A), personal data protection, legal support in the field of designing mobile applications, image and personal rights protection, cybersecurity, compliance and taxes.
 For more details please check a website [lbplegal.com](https://lbplegal.com/) or [LB&P LinkedIn account](https://www.linkedin.com/company/lbplegal/).
 
