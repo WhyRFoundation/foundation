@@ -24,7 +24,7 @@ Grant Applicants will be notified about decisions by an e-mail.
 
 # Terms and Conditions
 
-Terms and Conditions of award and disbursement of Why R? Foundation grants for exceptional women scientists from the field of data science is available [here](http:/whyr.pl/foundation/terms-and-conditions.pdf)
+Terms and Conditions of award and disbursement of Why R? Foundation grants for exceptional women scientists from the field of data science is available [here](http://whyr.pl/foundation/terms-and-conditions.pdf)
 
 # Registration form
 
