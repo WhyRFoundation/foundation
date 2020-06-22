@@ -21,12 +21,22 @@ Webinars are hosted each Thursday for next few weeks!
 
 You can see the list of planned webinars on [youtube.com/WhyRFoundation](https://www.youtube.com/c/WhyRFoundation)
 
-* 2020-06-18 Pause for 2020.erum.io 2020-06-17/20
+* 2020-06-25 In Silico Immunology: Neural Networks for Modelling Molecular Interactions using Tensorflow via Keras in R
+* 2020-06-18 Pause for 2020.erum.io
 * 2020-06-11 Using R with High Performance Tools on a Windows Laptop
 * 2020-06-04 Understanding Word Embeddings
 {:toc}
 
-## 2020-06-18 Pause for 2020.erum.io 2020-06-17/20
+## 2020-06-25 In Silico Immunology: Neural Networks for Modelling Molecular Interactions using Tensorflow via Keras in R
+
+<img src="/foundation/images/fulls/webinars/leon.jpg" class="fit image">
+
+- speaker: Leon Eyrich Jessen
+- [meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/271185501/)
+- [webinar](https://youtu.be/ApGL2gBPHY4)
+
+
+## 2020-06-18 Pause for 2020.erum.io
 
 <img src="/foundation/images/fulls/webinars/erum.jpg" class="fit image">
 - The European R Users Meeting
