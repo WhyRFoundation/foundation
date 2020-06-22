@@ -12,8 +12,7 @@ robots: noindex
 
 # Motivation
 
-
-Why R? Supporting Grant for Women in Data Science is an annual award granted to the extraordinary female Polish data scientists.
+The aim of the Why R? Foundation is to reinforce the growth of data science in Poland by keeping it balanced and diverse. To do so, since 2018 Why R? Foundation is distributing the Why R? Supporting Grant for Woman in Data Science. The idea is not only to aid exceptional female data scientists but also to showcase them as role models to the whole community.    
 
 # Dates
 
@@ -24,7 +23,7 @@ Grant Applicants will be notified about decisions by an e-mail.
 
 # Terms and Conditions
 
-Terms and Conditions of award and disbursement of Why R? Foundation grants for exceptional women scientists from the field of data science is available [here](http://whyr.pl/foundation/terms-and-conditions.pdf)
+Terms and Conditions of award and disbursement of Why R? Foundation grants for exceptional women scientists from the field of data science are available [here](http://whyr.pl/foundation/terms-and-conditions.pdf)
 
 # Registration form
 
@@ -32,10 +31,10 @@ If you want to apply for the grant please fill [this form](https://forms.gle/pHr
 
 # Scientific committee
 
-- Michał Burdukiewicz
-- Barbara Sobkowiak
+- Michał Burdukiewicz (amanuensis)
 - Marta Karas
 - Marcin Kosiński
+- Barbara Sobkowiak
 
 # Partners
 
