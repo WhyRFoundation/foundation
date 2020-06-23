@@ -38,7 +38,8 @@ If you want to apply for the grant please fill [this form](https://forms.gle/pHr
 
 # Partners
 
-<img src="/foundation/images/fulls/supporting-grant/wimlds2.png" class="fit image">
+<img src="/foundation/images/fulls/supporting-grant/wimlds2.png" class="fit left">
+<img src="/foundation/images/fulls/supporting-grant/rladies.png" class="fit right">
 
 # Acknowledgements
 
