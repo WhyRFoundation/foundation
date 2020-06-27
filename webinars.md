@@ -21,11 +21,21 @@ Webinars are hosted each Thursday for next few weeks!
 
 You can see the list of planned webinars on [youtube.com/WhyRFoundation](https://www.youtube.com/c/WhyRFoundation)
 
+* 2020-07-02 Taking friction out of R: helping drive data science adoption in organizations
 * 2020-06-25 In Silico Immunology: Neural Networks for Modelling Molecular Interactions using Tensorflow via Keras in R
 * 2020-06-18 Pause for 2020.erum.io
 * 2020-06-11 Using R with High Performance Tools on a Windows Laptop
 * 2020-06-04 Understanding Word Embeddings
 {:toc}
+
+## 2020-07-02 Taking friction out of R: helping drive data science adoption in organizations
+
+<img src="/foundation/images/fulls/webinars/jdlong.jpg" class="fit image">
+
+- speaker: JD Long
+- [meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/271209435/)
+- [webinar](https://www.youtube.com/watch?v=4OKFY9tH0Bw)
+
 
 ## 2020-06-25 In Silico Immunology: Neural Networks for Modelling Molecular Interactions using Tensorflow via Keras in R
 
