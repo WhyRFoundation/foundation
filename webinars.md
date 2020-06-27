@@ -21,12 +21,20 @@ Webinars are hosted each Thursday for next few weeks!
 
 You can see the list of planned webinars on [youtube.com/WhyRFoundation](https://www.youtube.com/c/WhyRFoundation)
 
+* 2020-07-09 Pause for user2020.r-project.org
 * 2020-07-02 Taking friction out of R: helping drive data science adoption in organizations
 * 2020-06-25 In Silico Immunology: Neural Networks for Modelling Molecular Interactions using Tensorflow via Keras in R
 * 2020-06-18 Pause for 2020.erum.io
 * 2020-06-11 Using R with High Performance Tools on a Windows Laptop
 * 2020-06-04 Understanding Word Embeddings
 {:toc}
+
+
+## 2020-07-09 Pause for user2020.r-project.org
+
+<img src="/foundation/images/fulls/webinars/user.JPG" class="fit image">
+- 2020 UseR Conference
+- Website: [user2020.r-project.org](https://user2020.r-project.org/)
 
 ## 2020-07-02 Taking friction out of R: helping drive data science adoption in organizations
 
