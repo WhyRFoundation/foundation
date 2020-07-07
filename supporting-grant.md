@@ -40,7 +40,7 @@ If you want to apply for the grant please fill [this form](https://forms.gle/pHr
 
 <img src="/foundation/images/fulls/supporting-grant/mck.png" class="fit image">
 
-We are glad to announce that one of this year’s WhyR Supporting Grants will be sponsored by McKinsey & Company. 
+We are glad to announce that one of this year’s WhyR Supporting Grants will be sponsored by [McKinsey & Company](https://www.mckinsey.com/pl/careers/careers-in-poland). 
 
 McKinsey Analytics in Poland combines advanced data analytics solutions with in-depth industry and business knowledge, including multiple sectors such as commerce, banking, insurance, telecommunications, industrial production and heavy industry. McKinsey data scientists and architects, together with machine learning and data engineers, complement strategic and operational consulting and provide clients with advanced and robust data-driven solutions. McKinsey Analytics experts specialize in many different areas: statistical learning, deep learning, evolutionary and multi-criteria optimization, multi-agent simulations, game theory, reinforcement learning, advanced econometrics, causal & Bayesian inference, uplift modelling, Explainable Artificial Intelligence, visualization and data engineering.
 
