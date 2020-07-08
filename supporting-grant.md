@@ -31,10 +31,12 @@ If you want to apply for the grant please fill [this form](https://forms.gle/pHr
 
 # Scientific committee
 
-- Michał Burdukiewicz (amanuensis)
+- Michał Burdukiewicz (Wroclaw R User Group, Why R? Foundation)
 - Marta Karas
-- Marcin Kosiński
-- Barbara Sobkowiak
+- Marcin Kosiński (Warsaw R User Group, Why R? Foundation)
+- Barbara Sobkowiak (Women in Machine Learning and Data Science Poland)
+- Jakub Stefański (McKinsey & Company - Associate Partner)
+- Daria Szmurlo (McKinsey & Company - Data Science Consultant & Analytics Hub Leader)
 
 # Sponsor
 
