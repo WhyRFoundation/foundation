@@ -81,7 +81,8 @@ You can see the list of planned webinars on [youtube.com/WhyRFoundation](https:/
 
 ## 2020-05-28 Pipelines and AutoML with mlr3
 
-<img src="/foundation/images/fulls/webinars/mlr.jpg" class="fit image">
+<--! <img src="/foundation/images/fulls/webinars/mlr.jpg" class="fit image"> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4r8K3GO5wk4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - speakers: B.Bischl + F.Pfisterer + M.Binder
 - [meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/270316329/)
