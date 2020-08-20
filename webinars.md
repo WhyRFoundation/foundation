@@ -24,7 +24,7 @@ You can see the list of planned webinars on [youtube.com/WhyRFoundation](https:/
 * 2020-09-24 Pause for 2020.whyr.pl Conference (Remote)
 * 2020-09-17 Me, Myself and my Rprofile
 * 2020-09-10 Data Science for Social Justice
-* 2020-09-03 Reproducible research with workflowr
+* 2020-09-03 RReproducible research with workflowr: a framework for organizing, versioning, and sharing your data analysis projects
 * 2020-07-09 Pause for user2020.r-project.org
 * 2020-07-02 Taking friction out of R: helping drive data science adoption in organizations
 {:toc}
@@ -51,9 +51,9 @@ You can see the list of planned webinars on [youtube.com/WhyRFoundation](https:/
 - [meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/272697218/)
 - [webinar](https://youtu.be/hul0cOBgqPQ)
 
-## 2020-09-03 Reproducible research with workflowr
+## 2020-09-03 Reproducible research with workflowr: a framework for organizing, versioning, and sharing your data analysis projects
 
-<img src="/foundation/images/fulls/webinars/webinars.jpg" class="fit image">
+<img src="/foundation/images/fulls/webinars/john.jpg" class="fit image">
 
 - speaker: [John Blischak](https://jdblischak.com/)
 - [meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/272697194/)
