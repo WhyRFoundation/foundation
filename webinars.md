@@ -21,13 +21,38 @@ Webinars are hosted each Thursday for next few weeks!
 
 You can see the list of planned webinars on [youtube.com/WhyRFoundation](https://www.youtube.com/c/WhyRFoundation)
 
+* 2020-09-24 Pause for 2020.whyr.pl Conference (Remote)
+* 2020-09-17 Me, Myself and my Rprofile
+* 2020-09-10 Data Science for Social Justice
+* 2020-09-03 Reproducible research with workflowr
 * 2020-07-09 Pause for user2020.r-project.org
 * 2020-07-02 Taking friction out of R: helping drive data science adoption in organizations
-* 2020-06-25 In Silico Immunology: Neural Networks for Modelling Molecular Interactions using Tensorflow via Keras in R
-* 2020-06-18 Pause for 2020.erum.io
-* 2020-06-11 Using R with High Performance Tools on a Windows Laptop
-* 2020-06-04 Understanding Word Embeddings
 {:toc}
+
+## Pause for 2020.whyr.pl Conference (Remote)
+
+<img src="/foundation/images/fulls/whyr2020/updated_cover2020_small.jpg" class="fit image">
+- Why R? 2020 Conference (Remote)
+- Website: [2020.whyr.pl](http://2020.whyr.pl/)
+
+## 2020-09-17 Me, Myself and my Rprofile
+
+- speaker: [Colin Gillespie](https://www.jumpingrivers.com/)
+- [meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/272697229/)
+- [webinar](https://youtu.be/2rWi2KVcyjg)
+
+## 2020-09-10 Data Science for Social Justice
+
+- speaker: [Sydeaka Watson](https://www.sydeaka.com/)
+- [meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/272697218/)
+- [webinar](https://youtu.be/hul0cOBgqPQ)
+
+## 2020-09-03 Reproducible research with workflowr
+
+- speaker: [John Blischak](https://jdblischak.com/)
+- [meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/272697194/)
+- [webinar](https://youtu.be/3yX73UBN2SU)
+
 
 
 ## 2020-07-09 Pause for user2020.r-project.org
