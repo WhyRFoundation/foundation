@@ -29,7 +29,7 @@ You can see the list of planned webinars on [youtube.com/WhyRFoundation](https:/
 * 2020-07-02 Taking friction out of R: helping drive data science adoption in organizations
 {:toc}
 
-## Pause for 2020.whyr.pl Conference (Remote)
+## 2020-09-24 Pause for 2020.whyr.pl Conference (Remote)
 
 <img src="/foundation/images/fulls/whyr2020/updated_cover2020_small.jpg" class="fit image">
 - Why R? 2020 Conference (Remote)
@@ -37,17 +37,23 @@ You can see the list of planned webinars on [youtube.com/WhyRFoundation](https:/
 
 ## 2020-09-17 Me, Myself and my Rprofile
 
+<img src="/foundation/images/fulls/webinars/colin.jpg" class="fit image">
+
 - speaker: [Colin Gillespie](https://www.jumpingrivers.com/)
 - [meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/272697229/)
 - [webinar](https://youtu.be/2rWi2KVcyjg)
 
 ## 2020-09-10 Data Science for Social Justice
 
+<img src="/foundation/images/fulls/webinars/sydeaka.jpg" class="fit image">
+
 - speaker: [Sydeaka Watson](https://www.sydeaka.com/)
 - [meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/272697218/)
 - [webinar](https://youtu.be/hul0cOBgqPQ)
 
 ## 2020-09-03 Reproducible research with workflowr
+
+<img src="/foundation/images/fulls/webinars/webinars.jpg" class="fit image">
 
 - speaker: [John Blischak](https://jdblischak.com/)
 - [meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/272697194/)
