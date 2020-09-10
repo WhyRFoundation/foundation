@@ -13,12 +13,12 @@ A hackathon promoting [Why R? 2020 (Remote) Confernece](2020.whyr.pl).
 #### Table of Contents
 
 |:---------|:-------------|:-------------|
-| 1. [Why text mining?](#why-text-mining) | 2. [Why Hackathon?](#why-hackathon) |  3. [Challenges](#Challenges) |
+| 1.  | 2. [Why Hackathon?](#why-hackathon) |  3. [Challenges](#Challenges) |
 | 4. [Competition Rules](#competition-rules) | 5. [Mentors and Judges](#mentors-and-judges) | 6. [Sponsor](#sponsor) |
-| 7. [Talks](#talks) | 8. [For whom?](#for-whom) | 9. [Teams](#teams) |
+| 7. [Talks](#talks) | 8.  | 9. [Teams](#teams) |
 | 10. [Registration](#registration) | 11. [Event details](#event-details) | 12. [Organizers](#organizers) |
 
-### Why text mining?
+
 
 ### Why Hackathon?
 
@@ -45,7 +45,7 @@ For a participant such an undertaking is a great chance to: <br>
 
 There will be multiple challenges that you can participate in. Each team can send a solution for each of the challenges.
 
-> To be annonced at the opening!
+> To be announced at the opening!
 
 ### Competition Rules
 
@@ -54,11 +54,11 @@ Solutions should be sent as videos (max 5 min! per video). They should be presen
 Each team can send a solution for each challenge in as a separate video (one video for one challenge). 
 More details about hackathon criterias announced at the event opening!
 
-> To be annonced soon!
+> To be announced soon!
 
 ### Mentors and Judges
 
-> To be annonced soon!
+> To be announced soon!
 
 ### Sponsor
 
@@ -75,8 +75,6 @@ We are all looking forward to share with you some insights on how to identify an
 * 2020-09-23 5:00pm UTC Julia Silge
 * 2020-09-24 1:00pm UTC Kenneth Benoit
 * 2020-09-24 5:30pm UTC McKinsey Sponsored Talk
-
-### For whom?
 
 ### Teams
 
