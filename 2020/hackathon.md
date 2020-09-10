@@ -22,7 +22,30 @@ A hackathon promoting [Why R? 2020 (Remote) Confernece](2020.whyr.pl).
 
 ### Why Hackathon?
 
+Hackathons are events where enthusiasts of a specific topic gather in one place to work together on challenges that arose for a particular community.<br>
+
+Hackathons tend to be timepressure events, where solutions need to be created quicky and  active cooperation between participants is necessary. To set the pace of the event, participants are divided into teams which compete to prepare the most valuable solution and win a prize. <br>
+
+For a participant such an undertaking is a great chance to: <br>
+
+<ul>
+<li>develop the ability to work in group</li>
+<li>learn from more experienced practitioners</li>
+<li>take part in lectures and workshops related to text mining</li>
+<li>have a remarkable networking experience</li>
+<li>participate in healthy and fair competition</li>
+<li>test skills in comparison with the others</li>
+<li>win prizes</li>
+<li>learn new data analysis techniques</li>
+<li>use new tools</li>
+<li><b>brainstorm new business use cases</b></li>
+</ul>
+
 ### Challenges
+
+There will be multiple challenges that you can participate in. Each team can send a solution for each of the challenges.
+
+> To be annonced at the opening!
 
 ### Competition Rules
 
@@ -57,9 +80,20 @@ We are all looking forward to share with you some insights on how to identify an
 
 ### Teams
 
+We would like participants to gather in teams of 4 or 5.
+
+If you do not have a team, please join our [whyr.pl/slack/](http://whyr.pl/slack/) to find out people willing to form a team. We are able to combine teams as well if you find it hard to gather a group of 4 or 5 on your own.
+
+During the registration we will collect the list of your skills to adjust the difficulty level of the challenge and to inform judges about the overall advancement of participants.
+This can also help us create teams if you are unable to find one!
+
 ### Registration
 
-As for now use [2020.whyr.pl/register/](2020.whyr.pl/register/).
+Text Mining Hackathon is a free event. However, the registration is required. This will allow organizers to book a capacity of mentors and judges for the event.
+
+For single registration as for now use [2020.whyr.pl/register/](2020.whyr.pl/register/). This is just for capacity reasons. The registration for teams will be needed anyway.
+
+> On 2020-09-10 10pm UTC we will enable registration for teams.
 
 ### Event details
 
