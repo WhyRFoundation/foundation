@@ -13,12 +13,16 @@ A hackathon promoting [Why R? 2020 (Remote) Confernece](2020.whyr.pl).
 #### Table of Contents
 
 |:---------|:-------------|:-------------|
-| 1.  | 2. [Why Hackathon?](#why-hackathon) |  3. [Challenges](#Challenges) |
+| 1. [Why text mining?](#why-text-mining) | 2. [Why Hackathon?](#why-hackathon) |  3. [Challenges](#Challenges) |
 | 4. [Competition Rules](#competition-rules) | 5. [Mentors and Judges](#mentors-and-judges) | 6. [Sponsor](#sponsor) |
-| 7. [Talks](#talks) | 8.  | 9. [Teams](#teams) |
+| 7. [Talks](#talks) | 8. [For whom?](#for-whom) | 9. [Teams](#teams) |
 | 10. [Registration](#registration) | 11. [Event details](#event-details) | 12. [Organizers](#organizers) |
 
+### Why text mining?
 
+Text mining is widely known within machine wandering practitioners. The increased interest in the text mining is caused by an augmentation of internet users and by rapid growth of the internet data which is said that in a great amount is a text data. Extracting information from articles, news, posts and comments have became a desirable skill but what is even more needful are tools for text mining models diagnostics and visualizations.
+
+Even though there are a lot of tools, books and webinars available online there is still a place for the improvement and development.
 
 ### Why Hackathon?
 
@@ -73,8 +77,22 @@ We are all looking forward to share with you some insights on how to identify an
 ### Talks
 
 * 2020-09-23 5:00pm UTC Julia Silge
+<iframe src="http://www.youtube.com/embed/OH_lt8qlSJw" width="560" height="315" frameborder="0" allowfullscreen></iframe>
 * 2020-09-24 1:00pm UTC Kenneth Benoit
 * 2020-09-24 5:30pm UTC McKinsey Sponsored Talk
+
+### For whom?
+
+We strongly encourage people with analytic thinking skills to participate in the event.
+Data analysts, developers, storytellers, BI consultants, web designers, researchers,
+data enthusiast are all welcome since they can learn a lot from one another!!
+
+- Have a good understanding of text mining challenges?
+- Eager to get failiar with text mining concepts and good practices? 
+- Want to meet people devoted to text analyses? 
+- Enthusiastic about presenting insights related to text mining analysis? 
+
+The event is made just for you!
 
 ### Teams
 
@@ -89,9 +107,7 @@ This can also help us create teams if you are unable to find one!
 
 Text Mining Hackathon is a free event. However, the registration is required. This will allow organizers to book a capacity of mentors and judges for the event.
 
-For single registration as for now use [2020.whyr.pl/register/](2020.whyr.pl/register/). This is just for capacity reasons. The registration for teams will be needed anyway.
-
-> On 2020-09-10 10pm UTC we will enable registration for teams.
+Please use this form [2020.whyr.pl/hackathon/register/](2020.whyr.pl/hackathon/register/) to submit the team for the competition!
 
 ### Event details
 
