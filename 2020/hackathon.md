@@ -109,7 +109,7 @@ This can also help us create teams if you are unable to find one!
 
 Text Mining Hackathon is a free event. However, the registration is required. This will allow organizers to book a capacity of mentors and judges for the event.
 
-> Use this form [whyr.pl/2020/hackathon/register/](whyr.pl/2020/hackathon/register/) to submit the team for the competition!
+> Use this form [whyr.pl/2020/hackathon/register/](http://whyr.pl/2020/hackathon/register/) to submit the team for the competition!
 
 ### Event details
 
