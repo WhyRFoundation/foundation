@@ -77,8 +77,7 @@ We are all looking forward to share with you some insights on how to identify an
 ### Talks
 
 * 2020-09-23 5:00pm UTC Julia Silge **Data visualization for machine learning practitioners**
-<iframe src="http://www.youtube.com/embed/OH_lt8qlSJw" width="78%" height="315" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://www.youtube.com/live_chat?v=OH_lt8qlSJw&embed_domain=whyr.pl" width="18%" height="315"></iframe>
+<iframe src="http://www.youtube.com/embed/OH_lt8qlSJw" width="560" height="315" frameborder="0" allowfullscreen></iframe>
 * 2020-09-24 1:00pm UTC Kenneth Benoit **Why you should stop using other text mining packages and embrace quanteda**
 <iframe src="http://www.youtube.com/embed/9hEvGBu3cnI" width="560" height="315" frameborder="0" allowfullscreen></iframe>
 * 2020-09-24 5:30pm UTC McKinsey Sponsored Talk
@@ -110,7 +109,7 @@ This can also help us create teams if you are unable to find one!
 
 Text Mining Hackathon is a free event. However, the registration is required. This will allow organizers to book a capacity of mentors and judges for the event.
 
-Please use this form [2020.whyr.pl/hackathon/register/](2020.whyr.pl/hackathon/register/) to submit the team for the competition!
+> Use this form [2020.whyr.pl/hackathon/register/](2020.whyr.pl/hackathon/register/) to submit the team for the competition!
 
 ### Event details
 
@@ -119,11 +118,10 @@ Please use this form [2020.whyr.pl/hackathon/register/](2020.whyr.pl/hackathon/r
 - Start - 5:00pm UTC 23.09.2020
 - End   - 5:30pm UTC 24.09.2020
 
-- Talks during the event
-    * Julia Silge
-    * Kenneth Benoit
-    * McKinsey Sponsored Talk
-
+- [Talks](#talks) during the event
+    * 2020-09-23 5:00pm UTC Julia Silge **Data visualization for machine learning practitioners**
+    * 2020-09-24 1:00pm UTC Kenneth Benoit **Why you should stop using other text mining packages and embrace quanteda**
+    * 2020-09-24 5:30pm UTC McKinsey Sponsored Talk
 
 - For? For everyone interested in text analysis and data science!
 - Tech? Any software that helps you win can be used!
