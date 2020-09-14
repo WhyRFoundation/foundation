@@ -78,7 +78,7 @@ We are all looking forward to share with you some insights on how to identify an
 
 * 2020-09-23 5:00pm UTC Julia Silge **Data visualization for machine learning practitioners**
 <iframe src="http://www.youtube.com/embed/OH_lt8qlSJw" width="560" height="315" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://www.youtube.com/live_chat?v=OH_lt8qlSJw&embed_domain=whyr.pl" width="18%" height="315"></iframe>
+<iframe src="https://www.youtube.com/live_chat?v=OH_lt8qlSJw&embed_domain=whyr.pl" width="100%" height="600"></iframe>
 * 2020-09-24 1:00pm UTC Kenneth Benoit **Why you should stop using other text mining packages and embrace quanteda**
 <iframe src="http://www.youtube.com/embed/9hEvGBu3cnI" width="560" height="315" frameborder="0" allowfullscreen></iframe>
 * 2020-09-24 5:30pm UTC McKinsey Sponsored Talk
