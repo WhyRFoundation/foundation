@@ -38,13 +38,17 @@ If you want to apply for the grant please fill [this form](https://forms.gle/pHr
 - Maciej Piotrowicz (McKinsey & Company - Engagement Manager)
 - Daria Szmurlo (McKinsey & Company - Data Science Consultant & Analytics Hub Leader)
 
-# Sponsor
+# Sponsors
 
 <img src="/foundation/images/fulls/supporting-grant/mck.png" class="fit image">
 
 We are glad to announce that one of this year’s WhyR Supporting Grants will be sponsored by [McKinsey & Company](https://www.mckinsey.com/pl/careers/careers-in-poland). 
 
 McKinsey Analytics in Poland combines advanced data analytics solutions with in-depth industry and business knowledge, including multiple sectors such as commerce, banking, insurance, telecommunications, industrial production and heavy industry. McKinsey data scientists and architects, together with machine learning and data engineers, complement strategic and operational consulting and provide clients with advanced and robust data-driven solutions. McKinsey Analytics experts specialize in many different areas: statistical learning, deep learning, evolutionary and multi-criteria optimization, multi-agent simulations, game theory, reinforcement learning, advanced econometrics, causal & Bayesian inference, uplift modelling, Explainable Artificial Intelligence, visualization and data engineering.
+
+<img src="/foundation/images/fulls/supporting-grant/triger.png" class="fit image">
+
+The second grant is funded from the sources collected during [SatRday 2019 Gdansk](https://gdansk2019.satrdays.org/) that was organized by [Triger](https://www.facebook.com/trigeRgroup) - [TriCity R User Group](https://www.meetup.com/Trojmiejska-Grupa-Entuzjastow-R). Many thanks to main organizers [Ania Rybińska-Fryca](https://www.linkedin.com/in/anna-rybi%C5%84ska-fryca-2ba507115/), [Olgun Aydin](https://www.linkedin.com/in/olgun-aydin/) and [Michał Maj](https://www.linkedin.com/in/michal-maj116/), main organizers of [SatRday 2019 Gdansk](https://gdansk2019.satrdays.org/) who invested their time and energy so that the scholarship for 2 awardess in this year was possible!
 
 # Partners
 
