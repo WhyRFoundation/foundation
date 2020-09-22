@@ -14,6 +14,11 @@ robots: noindex
 
 The aim of the Why R? Foundation is to reinforce the growth of data science in Poland by keeping it balanced and diverse. To do so, since 2018 Why R? Foundation is distributing the Why R? Supporting Grant for Woman in Data Science. The idea is not only to aid exceptional female data scientists but also to showcase them as role models to the whole community.    
 
+# Awardees
+
+ - Sylwia Majchrowska (Wroclaw University of Science and Technology),
+ - Anna Kozak (Warsaw University of Technology).
+
 # Dates
 
 - Grant Applications should be submitted through a dedicated form by **16th August 2020**.
