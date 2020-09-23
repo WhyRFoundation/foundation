@@ -51,9 +51,9 @@ For a participant such an undertaking is a great chance to: <br>
 
 ### Challenges
 
-There will be multiple challenges that you can participate in. Each team can send a solution for each of the challenges.
+Challenges and guidance for solution are published here
 
-> To be announced at the opening!
+> [github.com/WhyR2020/hackathon](https://github.com/WhyR2020/hackathon)
 
 ### Competition Rules
 
@@ -62,11 +62,23 @@ Solutions should be sent as videos (max 5 min! per video). They should be presen
 Each team can send a solution for each challenge in as a separate video (one video for one challenge). 
 More details about hackathon criterias announced at the event opening!
 
-> To be announced soon!
+- Whether there are at least 3 people in the team?
+- Is the presentation based on HackeR News data?
+- Is the solution a result of the teamwork?
+- Is the solution hosted in a public place?
+- Is this solution useful for the imaginary business team at Hacker News or has potential/clear business applications/story?
+- Is there a clear business problem/story that you are explaining?
+- How attractive is the use case?
+- How well are you able to present your solution?
+- Is the solution explainable?
+- Does the used solution have any statistical validation?
+
+
+Presented solution should be submitted as a video. It is nice to have if a solution is based on a presentation or a dashboard. For challenges 2-4 the winning solution will be chosen based on insightfulness and usefulness of identified patterns. For challenge 1 the winning solution will be chosen based on a cost function however we would like to know how did you get into such predictions?
 
 ### Mentors and Judges
 
-> To be announced soon!
+<img src="/foundation/images/fulls/whyr2020/hackathon/hackathon_people.jpg" class="fit image">
 
 ### Sponsor
 
