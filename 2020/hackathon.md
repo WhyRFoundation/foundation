@@ -84,7 +84,7 @@ We are all looking forward to share with you some insights on how to identify an
 <iframe src="http://www.youtube.com/embed/OH_lt8qlSJw" width="560" height="315" frameborder="0" allowfullscreen></iframe>
 * 2020-09-24 1:00pm UTC Kenneth Benoit **Why you should stop using other text mining packages and embrace quanteda**
 <iframe src="http://www.youtube.com/embed/9hEvGBu3cnI" width="560" height="315" frameborder="0" allowfullscreen></iframe>
-* 2020-09-24 5:30pm UTC McKinsey Sponsored Talk
+* 2020-09-24 5:30pm UTC **Why McKinsey Analytics? And how we use technology, data and global capabilities to serve our clients?**
 <iframe src="http://www.youtube.com/embed/BksxHxc1WtU" width="560" height="315" frameborder="0" allowfullscreen></iframe>
 
 ### For whom?
@@ -125,7 +125,7 @@ Text Mining Hackathon is a free event. However, the registration is required. Th
 - [Talks](#talks) during the event
     * 2020-09-23 5:00pm UTC Julia Silge **Data visualization for machine learning practitioners**
     * 2020-09-24 1:00pm UTC Kenneth Benoit **Why you should stop using other text mining packages and embrace quanteda**
-    * 2020-09-24 5:30pm UTC McKinsey Sponsored Talk
+    * 2020-09-24 5:30pm UTC **Why McKinsey Analytics? And how we use technology, data and global capabilities to serve our clients?**
 
 - For? For everyone interested in text analysis and data science!
 - Tech? Any software that helps you win can be used!
