@@ -8,8 +8,6 @@ robots: noindex
 
 A hackathon promoting [Why R? 2020 (Remote) Confernece](2020.whyr.pl).
 
-> More details to be added soon!
-
 **A language agnostic competition devoted to text mining where every machine learning practitioner can find challenges to test his/her team!**
 
 At this hackathon you can scale the level of difficulty and the area of challenges on your own. Depending on skills and the time that you have you can tune the fun on your own!
