@@ -10,24 +10,43 @@ that uploaded to [Why R? YouTube channel](https://www.youtube.com/c/WhyRFoundati
 
 # Details
 
-Webinars are hosted each Thursday for next few weeks!
+Webinars are hosted each Thursday!
 
 - channel: [youtube.com/WhyRFoundation](https://www.youtube.com/c/WhyRFoundation)
 - date: every Thursday **8:00 pm GMT+2**
 - format: 45 minutes long talk + 10 minutes for Q&A 
 - comments: ask questions on YouTube live chat
 
-# Planned talks
+# Webinars
 
-You can see the list of planned webinars on [youtube.com/WhyRFoundation](https://www.youtube.com/c/WhyRFoundation)
-
-* 2020-09-24 Pause for 2020.whyr.pl Conference (Remote)
-* 2020-09-17 Me, Myself and my Rprofile
-* 2020-09-10 Data Science for Social Justice
-* 2020-09-03 RReproducible research with workflowr: a framework for organizing, versioning, and sharing your data analysis projects
-* 2020-07-09 Pause for user2020.r-project.org
-* 2020-07-02 Taking friction out of R: helping drive data science adoption in organizations
+* 2020-10-22 Liberate the coder and empower the non coder
+* 2020-10-15 platypus - image segmentation & object detection made easy with R
+* 2020-10-08 Introduction to Twitter data analysis in R
 {:toc}
+
+## 2020-10-22 Liberate the coder and empower the non coder
+
+<img src="/foundation/images/fulls/webinars/marion.jpg" class="fit image">
+
+- speaker: [Marion Libouban](https://www.linkedin.com/in/marion-libouban-phd-a4290b7b/)
+- [meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/273596343/)
+- [webinar](https://youtu.be/xD98Ba4qyo0)
+
+## 2020-10-15 platypus - image segmentation & object detection made easy with R
+
+<img src="/foundation/images/fulls/webinars/maj.jpg" class="fit image">
+
+- speaker: [Michał Maj](https://www.linkedin.com/in/michal-maj116/)
+- [meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/273596275/)
+- [webinar](https://youtu.be/ONfqqSWwU9E)
+
+## 2020-10-08 Introduction to Twitter data analysis in R
+
+<img src="/foundation/images/fulls/webinars/suhem.jpg" class="fit image">
+
+- speaker: [Suhem Parack](https://twitter.com/suhemparack)
+- [meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/273589074/)
+- [webinar](https://youtu.be/0sJVKxHodJo)
 
 ## 2020-09-24 Pause for 2020.whyr.pl Conference (Remote)
 
