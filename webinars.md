@@ -19,10 +19,18 @@ Webinars are hosted each Thursday!
 
 # Webinars
 
+* 2020-10-29 How to start your own #rstats group: Building an inclusive and fun R community
 * 2020-10-22 Liberate the coder and empower the non coder
 * 2020-10-15 platypus - image segmentation & object detection made easy with R
 * 2020-10-08 Introduction to Twitter data analysis in R
 {:toc}
+
+## 2020-10-29 How to start your own #rstats group: Building an inclusive and fun R community
+
+<img src="/foundation/images/fulls/webinars/kyla.jpg" class="fit image">
+- speakers: [Kyla McConnell](https://kyla-mcconnell.github.io/website/) & [Julia Müller](https://www.linkedin.com/in/julia-mueller-2017)
+- [meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/273596943/)
+- [webinar](https://youtu.be/RsnUBmE13ew)
 
 ## 2020-10-22 Liberate the coder and empower the non coder
 
