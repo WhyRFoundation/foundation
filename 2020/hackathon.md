@@ -10,15 +10,48 @@ A hackathon promoting [Why R? 2020 (Remote) Confernece](2020.whyr.pl).
 
 **A language agnostic competition devoted to text mining where every machine learning practitioner can find challenges to test his/her team!**
 
-At this hackathon you can scale the level of difficulty and the area of challenges on your own. Depending on skills and the time that you have you can tune the fun on your own!
+At this hackathon you could scale the level of difficulty and the area of challenges on your own. Depending on skills and the time that you had you could tune the fun on your own!
+
+# Winners
+
+# Challenge 1 - Predictions
+
+<img src="https://raw.githubusercontent.com/WhyR2020/hackathon/master/img/1.jpg" alt="main" />
+
+- [Video](https://youtu.be/DYc6H1UWnXI)
+- [Slides](https://github.com/WhyR2020/hackathon/blob/master/solutions/challenge1.pptx)
+
+# Challenge 2 - Segmentation
+
+<img src="https://raw.githubusercontent.com/WhyR2020/hackathon/master/img/2.jpg" alt="main" />
+
+- [Video](https://youtu.be/Qzt9RwdRtJk)
+- [Slides](https://github.com/WhyR2020/hackathon/blob/master/solutions/challenge2.pptx)
+- [Code](https://github.com/mwkyuen/whyR_challenge2/)
+
+# Challenge 3 - Churn
+
+<img src="https://raw.githubusercontent.com/WhyR2020/hackathon/master/img/3.jpg" alt="main" />
+
+- [Video](https://youtu.be/FpQkolfxgZM)
+- [Slides](https://github.com/WhyR2020/hackathon/blob/master/solutions/challenge3.pptx)
+- [Code](https://github.com/dszokolics/hackathon-2020)
+
+# Challenge 4 - Text Analysis / Revealing the content
+
+<img src="https://raw.githubusercontent.com/WhyR2020/hackathon/master/img/4.jpg" alt="main" />
+
+- [Video](https://youtu.be/mkLc53uuGQ8)
+- [Slides](https://github.com/WhyR2020/hackathon/blob/master/solutions/challenge4.pptx)
+- [Code](https://github.com/kornelro/whyr_hack)
+
 
 #### Table of Contents
 
 |:---------|:-------------|:-------------|
 | 1. [Why text mining?](#why-text-mining) | 2. [Why Hackathon?](#why-hackathon) |  3. [Challenges](#Challenges) |
 | 4. [Competition Rules](#competition-rules) | 5. [Mentors and Judges](#mentors-and-judges) | 6. [Sponsor](#sponsor) |
-| 7. [Talks](#talks) | 8. [For whom?](#for-whom) | 9. [Teams](#teams) |
-| 10. [Registration](#registration) | 11. [Event details](#event-details) | 12. [Organizers](#organizers) |
+| 7. [Talks](#talks) | 8. [For whom?](#for-whom) | 9. [Organizers](#organizers)  |
 
 ### Why text mining?
 
@@ -109,21 +142,6 @@ data enthusiast are all welcome since they can learn a lot from one another!!
 - Enthusiastic about presenting insights related to text mining analysis? 
 
 The event is made just for you!
-
-### Teams
-
-We would like participants to gather in teams of 4 or 5.
-
-If you do not have a team, please join our [whyr.pl/slack/](http://whyr.pl/slack/) to find out people willing to form a team. We are able to combine teams as well if you find it hard to gather a group of 4 or 5 on your own.
-
-During the registration we will collect the list of your skills to adjust the difficulty level of the challenge and to inform judges about the overall advancement of participants.
-This can also help us create teams if you are unable to find one!
-
-### Registration
-
-Text Mining Hackathon is a free event. However, the registration is required. This will allow organizers to book a capacity of mentors and judges for the event.
-
-> Use this form [whyr.pl/2020/hackathon/register/](http://whyr.pl/2020/hackathon/register/) to submit the team for the competition!
 
 ### Event details
 
