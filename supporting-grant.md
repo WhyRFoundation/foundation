@@ -16,23 +16,39 @@ The aim of the Why R? Foundation is to reinforce the growth of data science in P
 
 # Awardees
 
- - Sylwia Majchrowska (Wroclaw University of Science and Technology),
- - Anna Kozak (Warsaw University of Technology).
+## Sylwia Majchrowska
 
-# Dates
+Sylwia completed master studies in mathematics at the University of Wrocław, as well as in physics at the Wrocław University of Science and Technology, where she continues her education towards the doctorate degree. Currently she investigates novel nonlinear optical phenomena that occur in multimode optical fibers by developing numerical tools to identify the impact of several modeling approximations for typical experimental parameters.
 
-- Grant Applications should be submitted through a dedicated form by **16th August 2020**.
-- Grant Holder selection information will be published by **20th September 2020** on the Why R? Foundation's website.
+In her professional career, she is designing and developing deep learning algorithms for image processing using neural network models. She was a member of a team working on developing a method to automate the analysis of bacterial colonies on Petri dishes using artificial neural networks and machine learning algorithms, in particular, to classify the type of bacteria and to determine the number of colonies.
 
-Grant Applicants will be notified about decisions by an e-mail.
+She is also a mentor in many volunteering programs, in which she teaches programming and tech knowledge at schools to increase interest in the STEM (Science, Technology, Engineering, Mathematics) area among children.
+
+Sylwia’s social media:
+
+ - [LinkedIn](https://www.linkedin.com/in/sylwia-majchrowska/)
+ - [Webpage](https://majsylw.netlify.app/)
+
+<img src="/foundation/images/fulls/supporting-grant/sylwia-majchrowska.png" class="fit image">
+
+
+## Anna Kozak 
+
+Anna has graduated with a master's degree in mathematics at the Warsaw University of Technology and works as a Data Scientist and Research Software Engineer. She is associated with MI2 Data Lab. Her interests include analysis, interpretable machine learning, and data visualization. She is the author of R vivo package.
+
+She organizes and conducts workshops related to the popularization of R. The event of which she is the initiator and main coordinator is the PoweR - Python and R in Data Science for beginners.
+
+Speaker at conferences, Why R? 2019 and MLinPL 2019. Also, she co-conducted the workshop at eRum 2020.
+
+Anna's social media:
+
+ - [LinkedIn](https://www.linkedin.com/in/anna-kozak-a45687116/)
+
+<img src="/foundation/images/fulls/supporting-grant/anna-kozak.jpg" class="fit image">
 
 # Terms and Conditions
 
 Terms and Conditions of award and disbursement of Why R? Foundation grants for exceptional women scientists from the field of data science are available [here](http://whyr.pl/foundation/terms-and-conditions.pdf)
-
-# Registration form
-
-If you want to apply for the grant please fill [this form](https://forms.gle/pHrFD7DL7cHC1N2z7)
 
 # Scientific committee
 
