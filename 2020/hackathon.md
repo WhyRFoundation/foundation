@@ -12,16 +12,23 @@ A hackathon promoting [Why R? 2020 (Remote) Confernece](2020.whyr.pl).
 
 At this hackathon you could scale the level of difficulty and the area of challenges on your own. Depending on skills and the time that you had you could tune the fun on your own!
 
+#### Table of Contents
+
+|:---------|:-------------|:-------------|
+| 1. [Why text mining?](#why-text-mining) | 2. [Why Hackathon?](#why-hackathon) |  3. [Challenges](#Challenges) |
+| 4. [Competition Rules](#competition-rules) | 5. [Mentors and Judges](#mentors-and-judges) | 6. [Sponsor](#sponsor) |
+| 7. [Talks](#talks) | 8. [For whom?](#for-whom) | 9. [Organizers](#organizers)  |
+
 # Winners
 
-# Challenge 1 - Predictions
+### Challenge 1 - Predictions
 
 <img src="https://raw.githubusercontent.com/WhyR2020/hackathon/master/img/1.jpg" alt="main" />
 
 - [Video](https://youtu.be/DYc6H1UWnXI)
 - [Slides](https://github.com/WhyR2020/hackathon/blob/master/solutions/challenge1.pptx)
 
-# Challenge 2 - Segmentation
+### Challenge 2 - Segmentation
 
 <img src="https://raw.githubusercontent.com/WhyR2020/hackathon/master/img/2.jpg" alt="main" />
 
@@ -29,7 +36,7 @@ At this hackathon you could scale the level of difficulty and the area of challe
 - [Slides](https://github.com/WhyR2020/hackathon/blob/master/solutions/challenge2.pptx)
 - [Code](https://github.com/mwkyuen/whyR_challenge2/)
 
-# Challenge 3 - Churn
+### Challenge 3 - Churn
 
 <img src="https://raw.githubusercontent.com/WhyR2020/hackathon/master/img/3.jpg" alt="main" />
 
@@ -37,7 +44,7 @@ At this hackathon you could scale the level of difficulty and the area of challe
 - [Slides](https://github.com/WhyR2020/hackathon/blob/master/solutions/challenge3.pptx)
 - [Code](https://github.com/dszokolics/hackathon-2020)
 
-# Challenge 4 - Text Analysis / Revealing the content
+### Challenge 4 - Text Analysis / Revealing the content
 
 <img src="https://raw.githubusercontent.com/WhyR2020/hackathon/master/img/4.jpg" alt="main" />
 
@@ -45,13 +52,6 @@ At this hackathon you could scale the level of difficulty and the area of challe
 - [Slides](https://github.com/WhyR2020/hackathon/blob/master/solutions/challenge4.pptx)
 - [Code](https://github.com/kornelro/whyr_hack)
 
-
-#### Table of Contents
-
-|:---------|:-------------|:-------------|
-| 1. [Why text mining?](#why-text-mining) | 2. [Why Hackathon?](#why-hackathon) |  3. [Challenges](#Challenges) |
-| 4. [Competition Rules](#competition-rules) | 5. [Mentors and Judges](#mentors-and-judges) | 6. [Sponsor](#sponsor) |
-| 7. [Talks](#talks) | 8. [For whom?](#for-whom) | 9. [Organizers](#organizers)  |
 
 ### Why text mining?
 
