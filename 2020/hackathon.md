@@ -37,7 +37,7 @@ At this hackathon you could scale the level of difficulty and the area of challe
 - [Video](https://youtu.be/Qzt9RwdRtJk)
 - [Slides](https://github.com/WhyR2020/hackathon/blob/master/solutions/challenge2.pptx)
 - [Code](https://github.com/mwkyuen/whyR_challenge2/)
-- Members: [Philip Li](), [Michael Yuen](), [Alvin Nursalim]()
+- Members: [Philip Li](https://www.linkedin.com/in/philipxpli/), [Michael Yuen](https://www.linkedin.com/in/mwkyuen/), [Alvin Nursalim](https://www.linkedin.com/in/alvin-n/)
 
 ### Challenge 3 - Churn
 
