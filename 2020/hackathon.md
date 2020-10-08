@@ -8,7 +8,7 @@ robots: noindex
 
 A hackathon promoting [Why R? 2020 (Remote) Confernece](2020.whyr.pl).
 
-**A language agnostic competition devoted to text mining where every machine learning practitioner can find challenges to test his/her team!**
+**A language agnostic competition devoted to text mining where every machine learning practitioner could found challenges to test his/her team!**
 
 At this hackathon you could scale the level of difficulty and the area of challenges on your own. Depending on skills and the time that you had you could tune the fun on your own!
 
@@ -27,6 +27,8 @@ At this hackathon you could scale the level of difficulty and the area of challe
 
 - [Video](https://youtu.be/DYc6H1UWnXI)
 - [Slides](https://github.com/WhyR2020/hackathon/blob/master/solutions/challenge1.pptx)
+- Members: [Keerthi Bojja](https://www.linkedin.com/in/keerthibojja/), [Sai Satyashree V](https://www.linkedin.com/in/sai-satyashree-v-95a05a13b/), [Nimeelitha Akkiraju
+](https://www.linkedin.com/in/nimeelitha-akkiraju/), [Punardeep Singh Johar](https://www.linkedin.com/in/punardeep-singh-johar/)
 
 ### Challenge 2 - Segmentation
 
@@ -35,6 +37,7 @@ At this hackathon you could scale the level of difficulty and the area of challe
 - [Video](https://youtu.be/Qzt9RwdRtJk)
 - [Slides](https://github.com/WhyR2020/hackathon/blob/master/solutions/challenge2.pptx)
 - [Code](https://github.com/mwkyuen/whyR_challenge2/)
+- Members: [](), [](), []()
 
 ### Challenge 3 - Churn
 
@@ -43,6 +46,7 @@ At this hackathon you could scale the level of difficulty and the area of challe
 - [Video](https://youtu.be/FpQkolfxgZM)
 - [Slides](https://github.com/WhyR2020/hackathon/blob/master/solutions/challenge3.pptx)
 - [Code](https://github.com/dszokolics/hackathon-2020)
+- Members: [Bence Farsang](https://www.linkedin.com/in/bence-istv%C3%A1n-farsang-00ab8a13b), [Bence Molnár](https://www.linkedin.com/in/bence-moln%C3%A1r-872003138), [Dániel Szokolics](https://www.linkedin.com/in/d%C3%A1niel-szokolics-b2969a8a), [Kristóf Rábay](https://www.linkedin.com/in/kristofrabay/), [Gerold Csendes](https://www.linkedin.com/in/gcsendes/)
 
 ### Challenge 4 - Text Analysis / Revealing the content
 
@@ -51,6 +55,7 @@ At this hackathon you could scale the level of difficulty and the area of challe
 - [Video](https://youtu.be/mkLc53uuGQ8)
 - [Slides](https://github.com/WhyR2020/hackathon/blob/master/solutions/challenge4.pptx)
 - [Code](https://github.com/kornelro/whyr_hack)
+- Members: [Łukasz Łaszczuk](https://www.linkedin.com/in/%C5%82ukasz-%C5%82aszczuk-141361187/), [Kornel Romański](https://www.linkedin.com/in/kornel-roma%C5%84ski-19a4111b6/), [Jarosław Opała](https://www.linkedin.com/in/jaroslaw-opala/), [Michał Malarek](https://www.linkedin.com/in/micha%C5%82-malarek-7332a91a9/), [https://www.linkedin.com/in/patryk-wielopolski/](Patryk Wielopolski)
 
 
 ### Why text mining?
@@ -82,16 +87,17 @@ For a participant such an undertaking is a great chance to: <br>
 
 ### Challenges
 
-Challenges and guidance for solution are published here
+Challenges and the guidance for solutions are published here
 
 > [github.com/WhyR2020/hackathon](https://github.com/WhyR2020/hackathon)
 
 ### Competition Rules
 
-Since the event is a competition with symbolic prices, we would like to grade solutions. 
-Solutions should be sent as videos (max 5 min! per video). They should be presenting insights developed to solve stated challenges.
-Each team can send a solution for each challenge in as a separate video (one video for one challenge). 
-More details about hackathon criterias announced at the event opening!
+Since the event was a competition with symbolic prices, we wanted like to grade solutions. 
+Solutions were sent as videos (we aimed at max 5 min! per video). 
+Videos should aim to present insights developed to solve stated challenges.
+Each team could send a solution for each challenge in a separate video (one video for one challenge). 
+Details about hackathon criterias were announced at the opening of the hackathon and are below!
 
 - Whether there are at least 3 people in the team?
 - Is the presentation based on HackeR News data?
@@ -105,9 +111,13 @@ More details about hackathon criterias announced at the event opening!
 - Does the used solution have any statistical validation?
 
 
-Presented solution should be submitted as a video. It is nice to have if a solution is based on a presentation or a dashboard. For challenges 2-4 the winning solution will be chosen based on insightfulness and usefulness of identified patterns. For challenge 1 the winning solution will be chosen based on a cost function however we would like to know how did you get into such predictions?
+Presented solution should be submitted as a video. It was a nice to have if a solution is based on a presentation or a dashboard. For challenges 2-4 the winning solution was chosen based on insightfulness and usefulness of identified patterns. For challenge 1 the winning solution was chosen based on a cost function however we wanted to know how did teams get into such predictions?
 
 ### Mentors and Judges
+
+Speakers of the hackathon: [Julia Silge](http://www.youtube.com/embed/OH_lt8qlSJw), [Kenneth Benoit](http://www.youtube.com/embed/9hEvGBu3cnI).
+
+Judges and mentors: [Mateusz Zawisza](https://www.linkedin.com/in/mateusz-zawisza/), [Piotr Zielonka](https://www.linkedin.com/in/piotrzielonka1987/), [Marcin Kosinski](https://www.linkedin.com/in/mkosinski/), [Maciej Eder](https://www.linkedin.com/in/maciej-eder-4919a033/), [Michał Burdukiewicz](https://www.linkedin.com/in/michal-burdukiewicz/).
 
 <img src="/foundation/images/fulls/whyr2020/hackathon/hackathon_people.jpg" class="fit image">
 
@@ -123,32 +133,32 @@ We are all looking forward to share with you some insights on how to identify an
 
 ### Talks
 
-* 2020-09-23 5:00pm UTC Julia Silge **Data visualization for machine learning practitioners**
+* Julia Silge **Data visualization for machine learning practitioners**
 <iframe src="http://www.youtube.com/embed/OH_lt8qlSJw" width="560" height="315" frameborder="0" allowfullscreen></iframe>
-* 2020-09-24 1:00pm UTC Kenneth Benoit **Why you should stop using other text mining packages and embrace quanteda**
+* Kenneth Benoit **Why you should stop using other text mining packages and embrace quanteda**
 <iframe src="http://www.youtube.com/embed/9hEvGBu3cnI" width="560" height="315" frameborder="0" allowfullscreen></iframe>
-* 2020-09-24 5:30pm UTC **Why McKinsey Analytics? And how we use technology, data and global capabilities to serve our clients?**
+* **Why McKinsey Analytics? And how we use technology, data and global capabilities to serve our clients?**
 <iframe src="http://www.youtube.com/embed/BksxHxc1WtU" width="560" height="315" frameborder="0" allowfullscreen></iframe>
 
 ### For whom?
 
-We strongly encourage people with analytic thinking skills to participate in the event.
+We strongly encouraged people with analytic thinking skills to participate in the event.
 Data analysts, developers, storytellers, BI consultants, web designers, researchers,
-data enthusiast are all welcome since they can learn a lot from one another!!
+data enthusiast were all welcome since they could learn a lot from one another!!
 
-- Have a good understanding of text mining challenges?
-- Eager to get failiar with text mining concepts and good practices? 
-- Want to meet people devoted to text analyses? 
+- Had a good understanding of text mining challenges?
+- Eager to got failiar with text mining concepts and good practices? 
+- Wanted to meet people devoted to text analyses? 
 - Enthusiastic about presenting insights related to text mining analysis? 
 
-The event is made just for you!
+The event was made just for you!
 
 ### Event details
 
 - Place: Remote Global Challenge
 - Date: 23.09.2020 - 24.09.2020
-- Start - 5:00pm UTC 23.09.2020
-- End   - 5:30pm UTC 24.09.2020
+- Started - 5:00pm UTC 23.09.2020
+- Ended   - 5:30pm UTC 24.09.2020
 
 - [Talks](#talks) during the event
     * 2020-09-23 5:00pm UTC Julia Silge **Data visualization for machine learning practitioners**
@@ -156,8 +166,10 @@ The event is made just for you!
     * 2020-09-24 5:30pm UTC **Why McKinsey Analytics? And how we use technology, data and global capabilities to serve our clients?**
 
 - For? For everyone interested in text analysis and data science!
-- Tech? Any software that helps you win can be used!
+- **Tech? Any software that helps you win can be used!**
 
 ### Organizers
+
+Why R? Foundation - [whyr.pl](http://whyr.pl).
 
 <img src="/foundation/images/profile.jpg">
