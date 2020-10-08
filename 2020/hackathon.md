@@ -37,7 +37,7 @@ At this hackathon you could scale the level of difficulty and the area of challe
 - [Video](https://youtu.be/Qzt9RwdRtJk)
 - [Slides](https://github.com/WhyR2020/hackathon/blob/master/solutions/challenge2.pptx)
 - [Code](https://github.com/mwkyuen/whyR_challenge2/)
-- Members: [](), [](), []()
+- Members: [Philip Li](), [Michael Yuen](), [Alvin Nursalim]()
 
 ### Challenge 3 - Churn
 
@@ -55,7 +55,7 @@ At this hackathon you could scale the level of difficulty and the area of challe
 - [Video](https://youtu.be/mkLc53uuGQ8)
 - [Slides](https://github.com/WhyR2020/hackathon/blob/master/solutions/challenge4.pptx)
 - [Code](https://github.com/kornelro/whyr_hack)
-- Members: [Łukasz Łaszczuk](https://www.linkedin.com/in/%C5%82ukasz-%C5%82aszczuk-141361187/), [Kornel Romański](https://www.linkedin.com/in/kornel-roma%C5%84ski-19a4111b6/), [Jarosław Opała](https://www.linkedin.com/in/jaroslaw-opala/), [Michał Malarek](https://www.linkedin.com/in/micha%C5%82-malarek-7332a91a9/), [https://www.linkedin.com/in/patryk-wielopolski/](Patryk Wielopolski)
+- Members: [Łukasz Łaszczuk](https://www.linkedin.com/in/%C5%82ukasz-%C5%82aszczuk-141361187/), [Kornel Romański](https://www.linkedin.com/in/kornel-roma%C5%84ski-19a4111b6/), [Jarosław Opała](https://www.linkedin.com/in/jaroslaw-opala/), [Michał Malarek](https://www.linkedin.com/in/micha%C5%82-malarek-7332a91a9/), [Patryk Wielopolski](https://www.linkedin.com/in/patryk-wielopolski/)
 
 
 ### Why text mining?
