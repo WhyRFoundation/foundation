@@ -15,7 +15,7 @@ At this hackathon you could scale the level of difficulty and the area of challe
 #### Table of Contents
 
 |:---------|:-------------|:-------------|
-| 1. [Why text mining?](#why-text-mining) | 2. [Why Hackathon?](#why-hackathon) |  3. [Challenges](#Challenges) |
+| 1. [Why text mining?](#why-text-mining) | 2. [Why Hackathon?](#why-hackathon) |  3. [Challenges](#challenges) |
 | 4. [Competition Rules](#competition-rules) | 5. [Mentors and Judges](#mentors-and-judges) | 6. [Sponsor](#sponsor) |
 | 7. [Talks](#talks) | 8. [For whom?](#for-whom) | 9. [Organizers](#organizers)  |
 
