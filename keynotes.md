@@ -14,10 +14,13 @@ robots: noindex
 
 <iframe width="850" height="480" src="https://www.youtube.com/embed/O4SxU7cRDpI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<img src="/foundation/images/fulls/whyr2020/keynotes/harrell.jpg" class="image">
-<img src="/foundation/images/fulls/whyr2020/keynotes/silge.jpg" class="image">
-<img src="/foundation/images/fulls/whyr2020/keynotes/bivand.jpg" class="image">
-<img src="/foundation/images/fulls/whyr2020/keynotes/bogdan.jpg" class="image">
+<iframe width="850" height="480" src="https://www.youtube.com/embed/DF1WsYZ94Es" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="850" height="480" src="https://www.youtube.com/embed/OH_lt8qlSJw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="850" height="480" src="https://www.youtube.com/embed/mEAyQ8bv1zU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="850" height="480" src="https://www.youtube.com/embed/F523a8bKDJA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## 2019
