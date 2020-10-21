@@ -10,8 +10,10 @@ robots: noindex
 
 ## 2020
 
-<img src="/foundation/images/fulls/whyr2020/keynotes/vitek.jpg" class="image">
-<img src="/foundation/images/fulls/whyr2020/keynotes/pius.jpg" class="image">
+<iframe width="850" height="480" src="https://www.youtube.com/embed/VdD0nHbcyk4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="850" height="480" src="https://www.youtube.com/embed/O4SxU7cRDpI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <img src="/foundation/images/fulls/whyr2020/keynotes/harrell.jpg" class="image">
 <img src="/foundation/images/fulls/whyr2020/keynotes/silge.jpg" class="image">
 <img src="/foundation/images/fulls/whyr2020/keynotes/bivand.jpg" class="image">
