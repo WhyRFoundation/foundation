@@ -25,12 +25,18 @@ robots: noindex
 
 ## 2019
 
-<img src="/foundation/images/fulls/whyr2019/keynotes/wright.jpg" class="image">
-<img src="/foundation/images/fulls/whyr2019/keynotes/keydana.jpg" class="image">
-<img src="/foundation/images/fulls/whyr2019/keynotes/brito.jpg" class="image">
-<img src="/foundation/images/fulls/whyr2019/keynotes/wit.jpg" class="image">
-<img src="/foundation/images/fulls/whyr2019/keynotes/locke.jpg" class="image">
-<img src="/foundation/images/fulls/whyr2019/keynotes/nowosad.jpg" class="image">
+<iframe width="850" height="480" src="https://www.youtube.com/embed/iVmsJJYjgNs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="850" height="480" src="https://www.youtube.com/embed/GTH0EGotcl4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="850" height="480" src="https://www.youtube.com/embed/obBs1hxBp04" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="850" height="480" src="https://www.youtube.com/embed/ysFAzq-HIQU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="850" height="480" src="https://www.youtube.com/embed/6oNhbPmw5Bo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="850" height="480" src="https://www.youtube.com/embed/bLgoqnqJ4DY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## 2018
 
