@@ -34,9 +34,9 @@ Webinars are hosted each Thursday!
 
 ## 2020-10-22 Liberate the coder and empower the non coder
 
-<img src="/foundation/images/fulls/webinars/marion.jpg" class="fit image">
+<img src="/foundation/images/fulls/webinars/faris.jpg" class="fit image">
 
-- speaker: [Marion Libouban](https://www.linkedin.com/in/marion-libouban-phd-a4290b7b/)
+- speaker: [Faris Naji](https://www.linkedin.com/in/faris-naji-52a717/)
 - [meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/273596343/)
 - [webinar](https://youtu.be/xD98Ba4qyo0)
 
