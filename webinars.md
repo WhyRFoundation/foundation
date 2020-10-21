@@ -202,9 +202,3 @@ Webinars are hosted each Thursday!
 - speaker: [Achim Zeileis, Universität Innsbruck](https://eeecon.uibk.ac.at/~zeileis/)
 - [meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/269589118/) 
 - [webinar](https://www.youtube.com/watch?v=PnyCR7q4P4Q) 
-
-# Stay up to date
-
-- subscribe to YouTube channel [youtube.com/c/WhyRFoundation](https://www.youtube.com/c/WhyRFoundation)
-- join Why R? Slack [whyr.pl/slack/](http://whyr.pl/slack/)
-- join [Meetup](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/269589118/)
