@@ -56,11 +56,6 @@ Webinars are hosted each Thursday!
 - [meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/273589074/)
 - [webinar](https://youtu.be/0sJVKxHodJo)
 
-## 2020-09-24 Pause for 2020.whyr.pl Conference (Remote)
-
-<img src="/foundation/images/fulls/whyr2020/updated_cover2020_small.jpg" class="fit image">
-- Why R? 2020 Conference (Remote)
-- Website: [2020.whyr.pl](http://2020.whyr.pl/)
 
 ## 2020-09-17 Me, Myself and my Rprofile
 
@@ -87,13 +82,6 @@ Webinars are hosted each Thursday!
 - [webinar](https://youtu.be/3yX73UBN2SU)
 
 
-
-## 2020-07-09 Pause for user2020.r-project.org
-
-<img src="/foundation/images/fulls/webinars/user.JPG" class="fit image">
-- 2020 UseR Conference
-- Website: [user2020.r-project.org](https://user2020.r-project.org/)
-
 ## 2020-07-02 Taking friction out of R: helping drive data science adoption in organizations
 
 <img src="/foundation/images/fulls/webinars/jdlong.jpg" class="fit image">
@@ -111,13 +99,6 @@ Webinars are hosted each Thursday!
 - [meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/271185501/)
 - [webinar](https://youtu.be/ApGL2gBPHY4)
 
-
-## 2020-06-18 Pause for 2020.erum.io
-
-<img src="/foundation/images/fulls/webinars/erum.jpg" class="fit image">
-- The European R Users Meeting
-- Website: [2020.erum.io](https://2020.erum.io/)
-- [e-Rum 2020 YouTube channel](https://www.youtube.com/channel/UCDOoQShiQHE7_C-wuLqFJ7w)
 
 ## 2020-06-11 Using R with High Performance Tools on a Windows Laptop
 
