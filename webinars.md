@@ -19,11 +19,38 @@ Webinars are hosted each Thursday!
 
 # Webinars
 
+* 2020-11-19 Satellite imagery analysis in R
+* 2020-11-12 Appsilon
+* 2020-11-05 R on AWS
 * 2020-10-29 How to start your own #rstats group: Building an inclusive and fun R community
 * 2020-10-22 Liberate the coder and empower the non coder
 * 2020-10-15 platypus - image segmentation & object detection made easy with R
 * 2020-10-08 Introduction to Twitter data analysis in R
 {:toc}
+
+## 2020-11-19 Satellite imagery analysis in R
+
+<img src="/foundation/images/fulls/webinars/ewa.jpg" class="fit image">
+- speaker: [Ewa Grabska](https://www.linkedin.com/in/ewa-grabska-731b30100)
+- [meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/274234432/)
+- [webinar](https://youtu.be/k1K6nqgtRL8)
+
+
+## 2020-11-12 Appsilon
+
+<img src="/foundation/images/fulls/webinars/webinars.jpg" class="fit image">
+- speakers: To be added
+- [meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/274234344/)
+- [webinar](https://youtu.be/c1o4LHO5hQ4)
+
+
+## 2020-11-05 R on AWS
+
+<img src="/foundation/images/fulls/webinars/marcin.jpg" class="fit image">
+- speaker: [Marcin Kosinski](http://r-addict.com/)
+- [meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/274234309/)
+- [webinar](https://youtu.be/h6FiLrZfI-8)
+
 
 ## 2020-10-29 How to start your own #rstats group: Building an inclusive and fun R community
 
