@@ -38,7 +38,7 @@ Webinars are hosted each Thursday!
 
 ## 2020-11-12 Appsilon
 
-<img src="/foundation/images/fulls/webinars/webinars.jpg" class="fit image">
+<img src="/foundation/images/fulls/webinars/apsi.jpg" class="fit image">
 - speakers: To be added
 - [meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/274234344/)
 - [webinar](https://youtu.be/c1o4LHO5hQ4)
