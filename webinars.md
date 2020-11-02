@@ -36,10 +36,10 @@ Webinars are hosted each Thursday!
 - [webinar](https://youtu.be/k1K6nqgtRL8)
 
 
-## 2020-11-12 Appsilon
+## 2020-11-12 Preserving wildlife with computer vision + Scaling Shiny Dashboards on a Budget
 
 <img src="/foundation/images/fulls/webinars/apsi.jpg" class="fit image">
-- speakers: To be added
+- speakers: [Jędrzej Świeżewski PhD](https://linkedin.com/in/swiezew/) & [Damian Budelewski](https://linkedin.com/in/damianbudelewski)
 - [meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/274234344/)
 - [webinar](https://youtu.be/c1o4LHO5hQ4)
 
