@@ -6,19 +6,21 @@ robots: noindex
 ---
 
 <img src="/foundation/images/fulls/webinars/webinars.jpg" class="fit image"> Motivated by a successful turnaround of visits of [Why R? 2019](whyr.pl/2019/) keynote talks 
-that uploaded to [Why R? YouTube channel](https://www.youtube.com/c/WhyRFoundation) we decided to start **Why R? Webinars** series! We hope this will impact the growth of the R community.
+that uploaded to [Why R? YouTube channel](https://www.youtube.com/WhyRFoundationVideos) we decided to start **Why R? Webinars** series! We hope this will impact the growth of the R community.
 
 # Details
 
 Webinars are hosted each Thursday!
 
-- channel: [youtube.com/WhyRFoundation](https://www.youtube.com/c/WhyRFoundation)
-- date: every Thursday **8:00 pm GMT+2**
+- channel: [youtube.com/WhyRFoundationVideos](https://www.youtube.com/WhyRFoundationVideos)
+- date: every Thursday **8:00 pm UTC+!**
 - format: 45 minutes long talk + 10 minutes for Q&A 
 - comments: ask questions on YouTube live chat
 
 # Webinars
 
+* 2020-03-12 Clean up your data screening process with reporteR
+* 2020-11-26 Mocking
 * 2020-11-19 Satellite imagery analysis in R
 * 2020-11-12 Appsilon
 * 2020-11-05 R on AWS
@@ -27,6 +29,20 @@ Webinars are hosted each Thursday!
 * 2020-10-15 platypus - image segmentation & object detection made easy with R
 * 2020-10-08 Introduction to Twitter data analysis in R
 {:toc}
+
+## 2020-03-12 Clean up your data screening process with reporteR
+
+<img src="/foundation/images/fulls/webinars/reporter.jpg" class="fit image">
+- speakers: [TBA]()
+- [meetup event TBA]()
+- [webinar TBA]()
+
+## 2020-11-26 Mocking
+
+<img src="/foundation/images/fulls/webinars/max.jpg" class="fit image">
+- speaker: [Max Kronborg]()
+- [meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/274549593/)
+- [webinar](https://www.youtube.com/watch?v=iRFJ6f7ZhsQ)
 
 ## 2020-11-19 Satellite imagery analysis in R
 
