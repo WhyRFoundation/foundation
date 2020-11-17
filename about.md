@@ -7,9 +7,9 @@ robots: noindex
 
 <img src="/foundation/images/fulls/about.JPG" class="image">
 
-# The goal
+# The goals
 
-The main goal of Foundation are
+The main goals of Foundation are
 
 - spreading knowledge about the R statistical package.
 - supporting programs and pro-development initiatives in the fields of economics, mathematics, statistics and data science to serve educational activities,
