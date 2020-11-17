@@ -30,6 +30,13 @@ robots: noindex
 
 <img src="/foundation/images/fulls/webinars/webinars.jpg" class="image">
 
+### Why R? Track on Data Science Summit 2020
+
+- [Website](https://dssconf.pl/)
+
+### Why R? Track on Warsaw Days of Informatics 2020
+
+- [Website](https://warszawskiedniinformatyki.pl/)
 
 #### [RStudio::conf Watch Party](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/266994866/)
 
