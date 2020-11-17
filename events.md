@@ -18,6 +18,19 @@ robots: noindex
 
 <img src="/foundation/images/fulls/whyr2020/cover2020.jpg" class="image">
 
+### Why R? 2020 Text Mining Hackathon
+
+- [Website](http://whyr.pl/foundation/2020/hackathon/)
+
+<img src="/foundation/images/fulls/whyr2020/hackathon/hackathon2020.jpg" class="image">
+
+### Why R? 2020 Webinars
+
+- [Website](http://whyr.pl/webinars/)
+
+<img src="/foundation/images/fulls/webinars/webinars.jpg" class="image">
+
+
 #### [RStudio::conf Watch Party](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/266994866/)
 
 <img src="/foundation/images/fulls/whyr2020/watch.jpg" class="image">
@@ -35,7 +48,7 @@ robots: noindex
 #### Why R? 2019 Conference
 
 - [Website](http://whyr.pl/2019/)
-- [After Movie (TBA)]() 
+- [After Movie (TBA)](https://www.youtube.com/watch?v=Ov6VsDmDM7k) 
 - [Photos](https://www.facebook.com/whyRconf/photos/) 
 - [Presentations](https://github.com/WhyR2019/presentations)
 - [Summary](http://whyr.pl/foundation/2019/WhyR-2019-Summary/)
