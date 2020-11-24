@@ -7,6 +7,8 @@ robots: noindex
 
 <img src="/foundation/images/fulls/about.JPG" class="image">
 
+Why R? Foundation is an team of R enthusiasts coming from both business and academia who aim to support local R communities around the world. Major activities are focused on international events of R statistical software users, like conferences, hackathons or webinars. Joining our events is a remarkable occasion to gain knowledge about R and meet new people.
+
 # The goals
 
 The main goals of Foundation are
