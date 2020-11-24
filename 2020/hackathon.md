@@ -64,7 +64,7 @@ At this hackathon you could scale the level of difficulty and the area of challe
 
 Team MeanGuys!
 
-- Members: [Michał Makowski](https://www.linkedin.com/in/mchlmakowski/), [Brandon Strain](https://www.linkedin.com/in/brandon-strain/), [Kartikeya Kirar](https://www.linkedin.com/in/brandon-strain/), Ambarish Ganguly, [Abdul Majed](linkedin.com/in/amrrs)
+- Members: [Michał Makowski](https://www.linkedin.com/in/mchlmakowski/), [Brandon Strain](https://www.linkedin.com/in/brandon-strain/), [Kartikeya Kirar](https://www.linkedin.com/in/brandon-strain/), [Ambarish Ganguly](https://www.linkedin.com/in/ambarish-ganguly/), [Abdul Majed](linkedin.com/in/amrrs)
 
 ### Why text mining?
 
