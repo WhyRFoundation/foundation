@@ -64,6 +64,8 @@ At this hackathon you could scale the level of difficulty and the area of challe
 
 Team MeanGuys!
 
+- Members: [Michał Makowski](https://www.linkedin.com/in/mchlmakowski/), [Brandon Strain](https://www.linkedin.com/in/brandon-strain/), [Kartikeya Kirar](https://www.linkedin.com/in/brandon-strain/), Ambarish Ganguly, Abdul Majed
+
 ### Why text mining?
 
 Text mining is widely known within machine wandering practitioners. The increased interest in the text mining is caused by an augmentation of internet users and by rapid growth of the internet data which is said that in a great amount is a text data. Extracting information from articles, news, posts and comments have became a desirable skill but what is even more needful are tools for text mining models diagnostics and visualizations.
