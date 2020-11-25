@@ -16,7 +16,7 @@ output:
     keep_md: true
 ---
 
-<img src="/images/fulls/whyr2020/panels/performance.jp" class="fit image"> Why R 2020 Discussion Panels are scheduled for this weekend! Check out the post to find out about dates and descriptions of them for [2020.whyr.pl](https://2020.whyr.pl).
+<img src="/foundation/images/fulls/whyr2020/panels/performance.jp" class="fit image"> Why R 2020 Discussion Panels are scheduled for this weekend! Check out the post to find out about dates and descriptions of them for [2020.whyr.pl](https://2020.whyr.pl).
 
 ## Why R? 2020 Discussion Panels
 
