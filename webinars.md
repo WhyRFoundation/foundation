@@ -32,10 +32,10 @@ Webinars are hosted each Thursday!
 
 ## 2020-03-12 Clean up your data screening process with reporteR
 
-<img src="/foundation/images/fulls/webinars/reporter.jpg" class="fit image">
-- speakers: [TBA]()
-- [meetup event TBA]()
-- [webinar TBA]()
+<img src="/foundation/images/fulls/webinars/reporteR.jpg" class="fit image">
+- Speakers: [Claus Ekstrøm](https://www.linkedin.com/in/clausekstroem/) and [Anne Helby Petersen](https://www.linkedin.com/in/anne-helby-petersen-57651ba5/)
+- [Meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/274826860/)
+- [Webinar](https://youtu.be/djSbNBa2S_c)
 
 ## 2020-11-26 Mocking
 
