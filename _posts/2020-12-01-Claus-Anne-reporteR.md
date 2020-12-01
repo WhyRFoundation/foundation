@@ -3,7 +3,7 @@ layout: post
 title: Upcoming Why R Webinar - Clean up your data screening process with _reporteR_
 comments: true
 published: false
-date: 2020-11-30 11:00:00
+date: 2020-12-01 11:00:00
 author: Laís Carvalho
 categories: [webinar]
 tags: [2020]
