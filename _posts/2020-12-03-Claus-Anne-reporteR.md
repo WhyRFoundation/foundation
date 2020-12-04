@@ -32,7 +32,7 @@ Check out our other events on this [webinars series](whyr.pl/webinars/). To watc
 
 Looking for more R news? [**Subscribe to our newsletter**](http://whyr.pl/subscribe/) and stay updated on our events and the most relevant news about our beloved open source programming language.
 
-Ans if you enjoy the content and would like to offer support, **[donate](whyr.pl/donate/) to the WhyR foundation**. We are a volunteer-run non-profit organisation and appreciate your contribution to continue to fulfil our [mission](http://whyr.pl/foundation/about/).
+And if you enjoy the content and would like to offer support, **[donate](whyr.pl/donate/) to the WhyR foundation**. We are a volunteer-run non-profit organisation and appreciate your contribution to continue to fulfil our [mission](http://whyr.pl/foundation/about/).
 
 
 ### Speakers
