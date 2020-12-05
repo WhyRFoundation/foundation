@@ -19,7 +19,8 @@ Webinars are hosted each Thursday!
 
 # Webinars
 
-* 2020-03-12 Clean up your data screening process with reporteR
+* 2020-10-12 R at Microsoft
+* 2020-03-12 Clean up your data screening process with _reporteR_
 * 2020-11-26 Mocking
 * 2020-11-19 Satellite imagery analysis in R
 * 2020-11-12 Appsilon
@@ -29,6 +30,13 @@ Webinars are hosted each Thursday!
 * 2020-10-15 platypus - image segmentation & object detection made easy with R
 * 2020-10-08 Introduction to Twitter data analysis in R
 {:toc}
+
+## 2020-10-12 R at Microsoft
+
+<img src="/foundation/images/fulls/webinars/david_smith.jpg" class="fit image">
+- Speaker: [David Smith](https://www.linkedin.com/in/dmsmith/)
+- [Meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/274884179/)
+- [Webinar](https://youtu.be/ELUXXUf-NfI)
 
 ## 2020-03-12 Clean up your data screening process with reporteR
 
