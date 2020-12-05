@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Upcoming Why R Webinar - R at Microsoft
-published: false
-date: 2020-12-08 11:00:00
+published: true
+date: 2020-12-07 11:00:00
 author: Laís Carvalho
 categories: [webinar]
 tags: [2020]
@@ -23,7 +23,7 @@ David will answer all your questions at the end of the session. Join us!
 
 ## Webinar
 
-<iframe width="850" height="480" src="https://https://youtu.be/ELUXXUf-NfI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="850" height="480" src="https://www.youtube.com/embed/ELUXXUf-NfI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Check out our other events on this [webinars series](whyr.pl/webinars/). To watch previous episodes check out the [WhyR YouTube channel](youtube.com/WhyRFoundationVideos) and make sure to subscribe!
 
