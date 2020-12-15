@@ -34,7 +34,7 @@ Webinars are hosted each Thursday!
 
 ## 2020-10-17 JuliaR: combining Julia and R utilities and workflows to solve problems
 
-<img src="/foundation/images/fulls/webinars/david_smith.jpg" class="fit image">
+<img src="/foundation/images/fulls/webinars/paulito.jpg" class="fit image">
 - Speaker: [Paulito Palmes](https://www.linkedin.com/in/paulitopalmes)
 - [Meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/275189962)
 - [Webinar](https://youtu.be/B8COgzAVNmU)
