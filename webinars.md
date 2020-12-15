@@ -19,6 +19,7 @@ Webinars are hosted each Thursday!
 
 # Webinars
 
+* 2020-10-17 JuliaR: combining Julia and R utilities and workflows to solve problems
 * 2020-10-12 R at Microsoft
 * 2020-03-12 Clean up your data screening process with _reporteR_
 * 2020-11-26 Mocking
@@ -30,6 +31,14 @@ Webinars are hosted each Thursday!
 * 2020-10-15 platypus - image segmentation & object detection made easy with R
 * 2020-10-08 Introduction to Twitter data analysis in R
 {:toc}
+
+## 2020-10-17 JuliaR: combining Julia and R utilities and workflows to solve problems
+
+<img src="/foundation/images/fulls/webinars/david_smith.jpg" class="fit image">
+- Speaker: [Paulito Palmes](https://www.linkedin.com/in/paulitopalmes)
+- [Meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/275189962)
+- [Webinar](https://youtu.be/B8COgzAVNmU)
+
 
 ## 2020-10-12 R at Microsoft
 
