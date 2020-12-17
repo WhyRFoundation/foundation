@@ -2,7 +2,7 @@
 layout: post
 title: Upcoming Why R Webinar - JuliaR combining Julia and R
 published: true
-date: 2020-12-15 17:00:00
+date: 2020-12-17 14:00:00
 author: Marcin Kosinski Laís Carvalho
 categories: [webinar]
 tags: [2020]
