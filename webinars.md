@@ -29,6 +29,13 @@ Webinars are hosted each Thursday!
 * 2020-10-15 platypus - image segmentation & object detection made easy with R
 * 2020-10-08 Introduction to Twitter data analysis in R
 {:toc}
+  
+## 2021-01-14 Why using R for analysis of the human microbiome is a good idea
+
+<img src="/foundation/images/fulls/webinars/susan_holmes.jpg" class="fit image">
+- Speaker: [Susan Holmes](https://statweb.stanford.edu/~susan/)
+- [Meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/275565918/)
+- [Webinar](https://youtu.be/tUWvYnGzfJg)
 
 ## 2020-03-12 Clean up your data screening process with reporteR
 
