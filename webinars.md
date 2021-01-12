@@ -19,6 +19,8 @@ Webinars are hosted each Thursday!
 
 # Webinars
 
+* 2021-01-14 Why using R for analysis of the human microbiome is a good idea
+* 2021-01-07 Innovative open-source approaches to automating research data management: Integrating Rshiny and REDCap
 * 2020-10-17 JuliaR: combining Julia and R utilities and workflows to solve problems
 * 2020-10-12 R at Microsoft
 * 2020-03-12 Clean up your data screening process with _reporteR_
@@ -38,6 +40,13 @@ Webinars are hosted each Thursday!
 - Speaker: [Susan Holmes](https://statweb.stanford.edu/~susan/)
 - [Meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/275565918/)
 - [Webinar](https://youtu.be/tUWvYnGzfJg)
+
+## 2021-01-07 Innovative open-source approaches to automating research data management: Integrating Rshiny and REDCap
+
+<img src="/foundation/images/fulls/webinars/christopher.jpg" class="fit image">
+- Speaker: [Christopher Maronga](https://www.linkedin.com/in/christopher-maronga-61031b7a/)
+- [Meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/275544852/)
+- [Webinar](https://youtu.be/PbD_e5sz4P8)
 
 ## 2020-10-17 JuliaR: combining Julia and R utilities and workflows to solve problems
 
