@@ -18,13 +18,12 @@ For a participant such an undertaking is a great chance to: <br>
 <ul>
 <li>develop the ability to work in group</li>
 <li>learn from more experienced practitioners</li>
-<li>take part in lectures and workshops related to data visualization</li>
+<li>take part in lectures related to data analysis</li>
 <li>have a remarkable networking experience</li>
 <li>participate in healthy and fair competition</li>
-<li>test his skills in comparison with the others</li>
+<li>test his/her skills in comparison with the others</li>
 <li>win prizes</li>
 <li>learn new presentation techniques</li>
-<li>use new visualization tools</li>
 <li><b>brainstorm new business use cases</b></li>
 </ul>
 
@@ -32,7 +31,7 @@ For a participant such an undertaking is a great chance to: <br>
 
 <img src="/foundation/images/fulls/whyr2019/hackathon/PwC_logo_new.jpg" class="fit image">
 
-In PwC Data Analytics team we analyse collected data to build solutions and design models to predict future trends. There is no coincidence that clients from various sectors have trusted us  -after all, we are among the top Data Scientists in the region. Would you like to join our team? Let's stay in touch! <br>
+In PwC Data Analytics team we analyse collected data to build solutions and design models to predict future trends. There is no coincidence that clients from various sectors have trusted us - after all, we are among the top Data Scientists in the region. Would you like to join our team? Let's stay in touch! <br>
 
 We are glad to support Why R and be a part of your community! 
 
@@ -51,8 +50,10 @@ Criterias will be shared soon!
 
 To provide solutions of the highest quality we have invited data science experts that will be available during the event for mentoring. At the time of closing presentations mentors will become judges of solutions and will score them based on the competition rules.
 
-<img src="https://2020.whyr.pl/img/people/oaydin.jpeg" class="fit left">
-<img src="https://2020.whyr.pl/img/people/marcin.jpg" class="fit right">
+<img src="https://2020.whyr.pl/img/people/marcin.jpg" class="fit image">
+
+- Olgun Aydin, Technical Lead, Data Science Team at PwC FCU
+- Marcin Kosinski, Leader of Why R Foundation
 
 ### Webinar
 
@@ -65,14 +66,14 @@ Agenda of the webinar
 - What do we do in R&D Unit at the Financial Crime Unit(FCU) ?
 - Anomalies in the business processes using 
 - Finding anomalies using Self Organizing Maps (SOM) in R
-        * Quick intro about anomaly detection concept
-        * How to detect anomalies using SOM ?
-        * SOM in R
+    * Quick intro about anomaly detection concept
+    * How to detect anomalies using SOM ?
+    * SOM in R
 - Application: 
-        * Applying SOM to find anomalies using R
-                 * Example: Financial process
-        * Finding anomalies and bottlenecks using D3.js
-                 * Example: Recruitment process
+    * Applying SOM to find anomalies using R
+       * Example: Financial process
+    * Finding anomalies and bottlenecks using D3.js
+       * Example: Recruitment process
 
 ### Teams
 
