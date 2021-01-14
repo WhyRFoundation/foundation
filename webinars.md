@@ -39,7 +39,7 @@ Webinars are hosted each Thursday!
 <img src="/foundation/images/fulls/webinars/susan_holmes.jpg" class="fit image">
 - Speaker: [Susan Holmes](https://statweb.stanford.edu/~susan/)
 - [Meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/275565918/)
-- [Webinar](https://youtu.be/tUWvYnGzfJg)
+- [Webinar](https://youtu.be/23HMuLm-ssE)
 
 ## 2021-01-07 Innovative open-source approaches to automating research data management: Integrating Rshiny and REDCap
 
