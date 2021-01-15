@@ -27,9 +27,9 @@ For a participant such an undertaking is a great chance to: <br>
 <li><b>brainstorm new business use cases</b></li>
 </ul>
 
-### Sponsor
+### Partner
 
-<img src="/foundation/images/fulls/whyr2019/hackathon/PwC_logo_new.jpg" class="fit image">
+<img src="/foundation/images/fulls/2021/hackathon/PwC_fl_c.png" class="fit image">
 
 In PwC Data Analytics team we analyse collected data to build solutions and design models to predict future trends. There is no coincidence that clients from various sectors have trusted us - after all, we are among the top Data Scientists in the region. Would you like to join our team? Let's stay in touch! <br>
 
