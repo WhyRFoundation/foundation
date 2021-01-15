@@ -19,6 +19,7 @@ Webinars are hosted each Thursday!
 
 # Webinars
 
+* 2021-01-18 R in PowerBi - an introduction
 * 2021-01-14 Why using R for analysis of the human microbiome is a good idea
 * 2021-01-07 Innovative open-source approaches to automating research data management: Integrating Rshiny and REDCap
 * 2020-10-17 JuliaR: combining Julia and R utilities and workflows to solve problems
@@ -34,6 +35,14 @@ Webinars are hosted each Thursday!
 * 2020-10-08 Introduction to Twitter data analysis in R
 {:toc}
   
+## 2021-01-18 R in PowerBi - an introduction
+
+<img src="/foundation/images/fulls/webinars/ped.jpg" class="fit image">
+- Speaker: [Nujcharee Haswell](https://twitter.com/nujcharee)
+- [Meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/275541638/)
+- [Webinar](https://youtu.be/QOMP7tJA6bE)
+
+
 ## 2021-01-14 Why using R for analysis of the human microbiome is a good idea
 
 <img src="/foundation/images/fulls/webinars/susan_holmes.jpg" class="fit image">
