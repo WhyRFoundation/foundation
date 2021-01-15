@@ -90,7 +90,7 @@ The Text Matching Hackathon is a free event. However, the registration is requir
 - Place: Remote Global Challenge
 - Date: 2021-01-26 - 2021-01-27
 - Start     -  7:00pm UTC 2021-01-26
-- End       -  8:00pm UTC 2021-01-27
+- End       -  9:00pm UTC 2021-01-27
 - Decisions - 11:00pm UTC 2021-01-27
 
 - For? For everyone interested in text mining!
