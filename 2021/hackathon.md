@@ -50,7 +50,7 @@ Criterias will be shared soon!
 
 To provide solutions of the highest quality we have invited data science experts that will be available during the event for mentoring. At the time of closing presentations mentors will become judges of solutions and will score them based on the competition rules.
 
-<img src="https://2020.whyr.pl/img/people/marcin.jpg" class="fit image">
+<img src="https://2020.whyr.pl/img/people/marcin_and_olgun.jpg" class="fit image">
 
 - Olgun Aydin, Technical Lead, Data Science Team at PwC FCU
 - Marcin Kosinski, Leader of Why R Foundation
