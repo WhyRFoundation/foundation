@@ -31,7 +31,7 @@ For a participant such an undertaking is a great chance to: <br>
 
 <img src="/foundation/images/fulls/2021/hackathon_pwc/PwC_fl_c.png" class="fit image">
 
-We are passionate professionals with hands-on experience in financial regulations area.
+We are passionate professionals from Financial Crime Unit in PwC Poland with hands-on experience in financial regulations area.
 
 Our comprehensive know-how gained on over 100 successfully delivered projects allows us to support our clients from Target Operating Model design to Operational Delivery. 
 
