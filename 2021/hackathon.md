@@ -63,6 +63,8 @@ To provide solutions of the highest quality we have invited data science experts
 
 The hackathon will be opened by a webinar!
 
+**Analyzing anomalies in the business processes using R and D3.js**
+
 <img src="/foundation/images/fulls/2021/hackathon_pwc/text_matching_speakers.jpg" class="fit image">
 
 Agenda of the webinar
@@ -78,6 +80,10 @@ Agenda of the webinar
        * Example: Financial process
     * Finding anomalies and bottlenecks using D3.js
        * Example: Recruitment process
+       
+<iframe width="750" height="480" src="https://www.youtube.com/embed/cBINdqdk6NE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 ### Teams
 
