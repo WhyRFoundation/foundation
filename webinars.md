@@ -18,21 +18,20 @@ Webinars are hosted each Thursday!
 - comments: ask questions on YouTube live chat
 
 # Webinars
-
-* 2020-03-12 Clean up your data screening process with reporteR
-* 2020-11-26 Mocking
-* 2020-11-19 Satellite imagery analysis in R
-* 2020-11-12 Appsilon
-* 2020-11-05 R on AWS
-* 2020-10-29 How to start your own #rstats group: Building an inclusive and fun R community
-* 2020-10-22 Liberate the coder and empower the non coder
-* 2020-10-15 platypus - image segmentation & object detection made easy with R
-* 2020-10-08 Introduction to Twitter data analysis in R
 {:toc}
   
+## 2021-01-18 Efficient computation with R
+
+<img src="/foundation/images/fulls/webinars/gwynn.jpg" class="fit image">
+
+- Speaker: [Dr gwynn stuydevant](https://lish.harvard.edu/people/gwynn-sturdevant)
+- [Meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/275565796)
+- [Webinar](https://youtu.be/mnDgzORc8p8)
+
 ## 2021-01-14 Why using R for analysis of the human microbiome is a good idea
 
 <img src="/foundation/images/fulls/webinars/susan_holmes.jpg" class="fit image">
+
 - Speaker: [Susan Holmes](https://statweb.stanford.edu/~susan/)
 - [Meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/275565918/)
 - [Webinar](https://youtu.be/tUWvYnGzfJg)
@@ -40,6 +39,7 @@ Webinars are hosted each Thursday!
 ## 2020-03-12 Clean up your data screening process with reporteR
 
 <img src="/foundation/images/fulls/webinars/reporteR.jpg" class="fit image">
+
 - Speakers: [Claus Ekstrøm](https://www.linkedin.com/in/clausekstroem/) and [Anne Helby Petersen](https://www.linkedin.com/in/anne-helby-petersen-57651ba5/)
 - [Meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/274826860/)
 - [Webinar](https://youtu.be/djSbNBa2S_c)
@@ -47,6 +47,7 @@ Webinars are hosted each Thursday!
 ## 2020-11-26 Mocking
 
 <img src="/foundation/images/fulls/webinars/max.jpg" class="fit image">
+
 - speaker: [Max Kronborg]()
 - [meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/274549593/)
 - [webinar](https://www.youtube.com/watch?v=iRFJ6f7ZhsQ)
@@ -54,6 +55,7 @@ Webinars are hosted each Thursday!
 ## 2020-11-19 Satellite imagery analysis in R
 
 <img src="/foundation/images/fulls/webinars/ewa.jpg" class="fit image">
+
 - speaker: [Ewa Grabska](https://www.linkedin.com/in/ewa-grabska-731b30100)
 - [meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/274234432/)
 - [webinar](https://youtu.be/k1K6nqgtRL8)
@@ -62,7 +64,8 @@ Webinars are hosted each Thursday!
 ## 2020-11-12 Preserving wildlife with computer vision + Scaling Shiny Dashboards on a Budget
 
 <img src="/foundation/images/fulls/webinars/apsi.jpg" class="fit image">
-- speakers: [Jędrzej Świeżewski PhD](https://linkedin.com/in/swiezew/) & [Damian Budelewski](https://linkedin.com/in/damianbudelewski)
+
+- Speakers: [Jędrzej Świeżewski PhD](https://linkedin.com/in/swiezew/) & [Damian Budelewski](https://linkedin.com/in/damianbudelewski)
 - [meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/274234344/)
 - [webinar](https://youtu.be/c1o4LHO5hQ4)
 
@@ -70,6 +73,7 @@ Webinars are hosted each Thursday!
 ## 2020-11-05 R on AWS
 
 <img src="/foundation/images/fulls/webinars/marcin.jpg" class="fit image">
+
 - speaker: [Marcin Kosinski](http://r-addict.com/)
 - [meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/274234309/)
 - [webinar](https://youtu.be/h6FiLrZfI-8)
@@ -78,11 +82,12 @@ Webinars are hosted each Thursday!
 ## 2020-10-29 How to start your own #rstats group: Building an inclusive and fun R community
 
 <img src="/foundation/images/fulls/webinars/kyla.jpg" class="fit image">
+
 - speakers: [Kyla McConnell](https://kyla-mcconnell.github.io/website/) & [Julia Müller](https://www.linkedin.com/in/julia-mueller-2017)
 - [meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/273596943/)
 - [webinar](https://youtu.be/RsnUBmE13ew)
 
-## 2020-10-22 Liberate the coder and empower the non coder
+## 2020-10-22 Liberate the coder and empower the non-coder
 
 <img src="/foundation/images/fulls/webinars/faris.jpg" class="fit image">
 
