@@ -43,11 +43,9 @@ We are glad to support Why R and be a part of your community!
 
 > Academic papers are not cited by every researcher in proper format, for academic search engines it is problematic to find citations per each paper. As papers are cited in different formats, also with some typos, matching citations with the title of the papers is a complicated task. 
 
-The challenge is about matching name of academic papers in different format. In the zip file, you will find four datasets.
+The challenge is about matching name of academic papers in different format. In the zip file, you will find four datasets: tableA.csv, tableB.csv, train.csv, valid.csv
 
 Please find the dataset [here](https://github.com/WhyRFoundation/foundation/blob/master/2021/data_hackathon.zip)
-
-In this zip file, you will find four datasets: tableA.csv, tableB.csv, train.csv, valid.csv
 
 - tableA.csv : It contains title, authors, venue, year columns. It gives information, what are the names of the academic papers, who are the authors, on which journals they were published. 
 - tableB.csv : It contains title, authors, venue, year columns. It gives information, what are the names of the academic papers, who are the authors, on which journals they were published.
