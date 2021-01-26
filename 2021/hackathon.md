@@ -50,6 +50,12 @@ More to be added soon!
 Since the event is a competition with symbolic prices, we would like to grade solutions.
 Criterias will be shared soon!
 
+Please fill [this form](https://forms.gle/LejLMAUSjV1aLSb69) when submitting the solution. Solution should contain
+- a url to a GitHub repo with codes, where you should provide motivation for your approach
+- and a url to the file with predictions
+
+You will be scored based on accuracy & F1 of your predictions and based on the creativity of your solution.
+
 ### Mentors and Judges
 
 To provide solutions of the highest quality we have invited data science experts that will be available during the event for mentoring. At the time of closing presentations mentors will become judges of solutions and will score them based on the competition rules.
@@ -94,6 +100,14 @@ If you do not have a team, please join our [whyr.pl/slack/](http://whyr.pl/slack
 ### Registration
 
 The Text Matching Hackathon is a free event. However, the registration is required. This will allow organizers to book capacity of mentors and judges! Use [this form](https://forms.gle/r2Pox9pc4ApJdpyJA) to register your team
+
+### Submit the solution
+
+Please fill [this form](https://forms.gle/LejLMAUSjV1aLSb69) when submitting the solution. Solution should contain
+- a url to a GitHub repo with codes, where you should provide motivation for your approach
+- and a url to the file with predictions
+
+You will be scored based on accuracy & F1 of your predictions and based on the creativity of your solution.
 
 ### Event details
 
