@@ -43,6 +43,8 @@ We are glad to support Why R and be a part of your community!
 
 > Academic papers are not cited by every researcher in proper format, for academic search engines it is problematic to find citations per each paper. As papers are cited in different formats, also with some typos, matching citations with the title of the papers is a complicated task. 
 
+Please find the dataset [here](https://github.com/WhyRFoundation/foundation/blob/master/2021/data_hackathon.zip)
+
 More to be added soon!
 
 ### Competition Rules
