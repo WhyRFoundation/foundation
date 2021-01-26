@@ -43,9 +43,21 @@ We are glad to support Why R and be a part of your community!
 
 > Academic papers are not cited by every researcher in proper format, for academic search engines it is problematic to find citations per each paper. As papers are cited in different formats, also with some typos, matching citations with the title of the papers is a complicated task. 
 
+The challenge is about matching name of academic papers in different format. In the zip file, you will find four datasets.
+
 Please find the dataset [here](https://github.com/WhyRFoundation/foundation/blob/master/2021/data_hackathon.zip)
 
-More to be added soon!
+In this zip file, you will find four datasets: tableA.csv, tableB.csv, train.csv, valid.csv
+
+- tableA.csv : It contains title, authors, venue, year columns. It gives information, what are the names of the academic papers, who are the authors, on which journals they were published. 
+- tableB.csv : It contains title, authors, venue, year columns. It gives information, what are the names of the academic papers, who are the authors, on which journals they were published.
+- train.csv : It contains, ltable_id, rtable_id, label columns. ltable_id is showing IDs of academic papers from tableA.csv. rtable_id is showing IDs of academic papers from tableB.csv. label coloumn is the information, if those articles are matched or not. 
+- valid.csv : It contains, ltable_id, rtable_id, label columns. ltable_id is showing IDs of academic papers from tableA.csv. rtable_id is showing IDs of academic papers from tableB.csv. You are expected to put your predictions to label coloumn. 
+
+In tableA.csv and tableB.csv you have same academic papers but their title, author names are in different formats. This brings the challenge. Your main goal is to develop a model which will succesfully match those names. Using train.csv file, you will get information about which of those academic papers are matched. 
+
+After training your models using train.csv files, please use validation.csv file to provide binary predictions (0 - 1). You will find pairs on that file. You will try to say if the academic paper is provided on tableA.csv, which has ID 12345 is matching to the academic paper is provided on tableB.csv, which has ID 34567. 
+
 
 ### Competition Rules
 
