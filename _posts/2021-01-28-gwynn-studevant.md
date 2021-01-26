@@ -27,7 +27,7 @@ Join us!
 
 ## Webinar
 
-<iframe width="850" height="480" src="https://youtu.be/mnDgzORc8p8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="850" height="480" src="https://www.youtube.com/embed/mnDgzORc8p8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Check out our other events on this [webinars series](whyr.pl/webinars/). To watch previous episodes check out the
 [WhyR YouTube channel](youtube.com/WhyRFoundationVideos) and make sure to subscribe!
