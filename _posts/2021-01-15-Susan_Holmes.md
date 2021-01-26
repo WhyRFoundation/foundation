@@ -3,7 +3,7 @@ layout: post
 title: Upcoming Why R Webinar - Why using R for analysis of the human microbiome is a good idea
 comments: true
 published: true
-date: 2021-01-11 11:00:00
+date: 2021-01-15 9:00:00
 author: Laís Carvalho
 categories: [webinar]
 tags: [2021]
@@ -18,16 +18,15 @@ output:
 
 <img src="/foundation/images/fulls/webinars/susan_holmes.jpg" class="fit image">
 
-On Thursday, January 14th at 7 pm UTC, as part of the Why R? Webinar series, we have the honour to host 
-[Susan Holmes](https://statweb.stanford.edu/~susan/) from Stanford University. She will talk about **microbiomes** and
+On Thursday, January 14th at 7 pm UTC, as part of the Why R? Webinar series, we had the honour to host 
+[Susan Holmes](https://statweb.stanford.edu/~susan/) from Stanford University. She did talk about **microbiomes** and
 how to use R's workflow to perform sophisticated downstream statistical analysis on those complex bacterial communities.
 
 Join us!
 
-
 ## Webinar
 
-<iframe width="850" height="480" src="https://www.youtube.com/embed/tUWvYnGzfJg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="850" height="480" src="https://www.youtube.com/embed/23HMuLm-ssE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Check out our other events on this [webinars series](whyr.pl/webinars/). To watch previous episodes check out the
 [WhyR YouTube channel](youtube.com/WhyRFoundationVideos) and make sure to subscribe!

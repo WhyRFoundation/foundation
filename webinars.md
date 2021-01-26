@@ -18,15 +18,38 @@ Webinars are hosted each Thursday!
 - comments: ask questions on YouTube live chat
 
 # Webinars
+ 
+* 2021-01-28 Efficient computation with R
+* 2021-01-18 R in PowerBi - an introduction
+* 2021-01-14 Why using R for analysis of the human microbiome is a good idea
+* 2021-01-07 Innovative open-source approaches to automating research data management: Integrating Rshiny and REDCap
+* 2020-10-17 JuliaR: combining Julia and R utilities and workflows to solve problems
+* 2020-10-12 R at Microsoft
+* 2020-03-12 Clean up your data screening process with _reporteR_
+* 2020-11-26 Mocking
+* 2020-11-19 Satellite imagery analysis in R
+* 2020-11-12 Appsilon
+* 2020-11-05 R on AWS
+* 2020-10-29 How to start your own #rstats group: Building an inclusive and fun R community
+* 2020-10-22 Liberate the coder and empower the non coder
+* 2020-10-15 platypus - image segmentation & object detection made easy with R
+* 2020-10-08 Introduction to Twitter data analysis in R
 {:toc}
-  
-## 2021-01-18 Efficient computation with R
+
+## 2021-01-28 Efficient computation with R
 
 <img src="/foundation/images/fulls/webinars/gwynn.jpg" class="fit image">
 
 - Speaker: [Dr gwynn stuydevant](https://lish.harvard.edu/people/gwynn-sturdevant)
 - [Meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/275565796)
 - [Webinar](https://youtu.be/mnDgzORc8p8)
+  
+## 2021-01-18 R in PowerBi - an introduction
+
+<img src="/foundation/images/fulls/webinars/ped.jpg" class="fit image">
+- Speaker: [Nujcharee Haswell](https://twitter.com/nujcharee)
+- [Meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/275541638/)
+- [Webinar](https://youtu.be/QOMP7tJA6bE)
 
 ## 2021-01-14 Why using R for analysis of the human microbiome is a good idea
 
@@ -34,7 +57,29 @@ Webinars are hosted each Thursday!
 
 - Speaker: [Susan Holmes](https://statweb.stanford.edu/~susan/)
 - [Meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/275565918/)
-- [Webinar](https://youtu.be/tUWvYnGzfJg)
+- [Webinar](https://youtu.be/23HMuLm-ssE)
+
+## 2021-01-07 Innovative open-source approaches to automating research data management: Integrating Rshiny and REDCap
+
+<img src="/foundation/images/fulls/webinars/christopher.jpg" class="fit image">
+- Speaker: [Christopher Maronga](https://www.linkedin.com/in/christopher-maronga-61031b7a/)
+- [Meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/275544852/)
+- [Webinar](https://youtu.be/PbD_e5sz4P8)
+
+## 2020-10-17 JuliaR: combining Julia and R utilities and workflows to solve problems
+
+<img src="/foundation/images/fulls/webinars/paulito.jpg" class="fit image">
+- Speaker: [Paulito Palmes](https://www.linkedin.com/in/paulitopalmes)
+- [Meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/275189962)
+- [Webinar](https://youtu.be/B8COgzAVNmU)
+
+
+## 2020-10-12 R at Microsoft
+
+<img src="/foundation/images/fulls/webinars/david_smith.jpg" class="fit image">
+- Speaker: [David Smith](https://www.linkedin.com/in/dmsmith/)
+- [Meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/274884179/)
+- [Webinar](https://youtu.be/ELUXXUf-NfI)
 
 ## 2020-03-12 Clean up your data screening process with reporteR
 
