@@ -7,24 +7,29 @@ robots: noindex
 <img src="/foundation/images/fulls/2021/hackathon_pwc/text_matching.jpg" class="fit image">
 
 
-### Winners
+## Winners
 
-#### 1st place
+### 1st place
 
-Team: Górnicy Carla Friedricha Team
-Solution: [github.com/pfilo8/WhyR-Hackathon-2021](https://github.com/pfilo8/WhyR-Hackathon-2021)
-Team Members: [Łukasz Łaszczuk](https://www.linkedin.com/in/%C5%82ukasz-%C5%82aszczuk-141361187/), [Robert Benke](https://www.linkedin.com/in/robert-benke-396b56175/) and [Patryk Wielopolski](https://www.linkedin.com/in/patryk-wielopolski/)
+- Team: Górnicy Carla Friedricha Team
+- Solution: [github.com/pfilo8/WhyR-Hackathon-2021](https://github.com/pfilo8/WhyR-Hackathon-2021)
+- Team Members: 
+    * [Łukasz Łaszczuk](https://www.linkedin.com/in/%C5%82ukasz-%C5%82aszczuk-141361187/)
+    * [Robert Benke](https://www.linkedin.com/in/robert-benke-396b56175/) 
+    * [Patryk Wielopolski](https://www.linkedin.com/in/patryk-wielopolski/)
 
-#### 2nd place
+### 2nd place
 
-Team: Eskisehir R Users Group
-Solution: [github.com/ugurdar/PwCPoland](https://github.com/ugurdar/PwCPoland)
-Team Members: [Ugur DAR](https://www.linkedin.com/in/ugurdar/),[Mustafa CAVUS](https://www.linkedin.com/in/mustafacavusphd/)
+- Team: Eskisehir R Users Group
+- Solution: [github.com/ugurdar/PwCPoland](https://github.com/ugurdar/PwCPoland)
+- Team Members: 
+    * [Ugur DAR](https://www.linkedin.com/in/ugurdar/)
+    * [Mustafa CAVUS](https://www.linkedin.com/in/mustafacavusphd/)
 
 #### 3rd place
 
-[Katarzyna Sornat](https://www.linkedin.com/in/katarzynasornat)
-Solution: [github.com/katarzynasornat/text_matching_hackathon](https://github.com/katarzynasornat/text_matching_hackathon)
+- [Katarzyna Sornat](https://www.linkedin.com/in/katarzynasornat)
+- Solution: [github.com/katarzynasornat/text_matching_hackathon](https://github.com/katarzynasornat/text_matching_hackathon)
 
 ### Why Hackathon?
 
