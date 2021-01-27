@@ -26,7 +26,7 @@ robots: noindex
     * [Ugur DAR](https://www.linkedin.com/in/ugurdar/)
     * [Mustafa CAVUS](https://www.linkedin.com/in/mustafacavusphd/)
 
-#### 3rd place
+### 3rd place
 
 - [Katarzyna Sornat](https://www.linkedin.com/in/katarzynasornat)
 - Solution: [github.com/katarzynasornat/text_matching_hackathon](https://github.com/katarzynasornat/text_matching_hackathon)
