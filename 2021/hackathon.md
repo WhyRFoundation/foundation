@@ -7,6 +7,25 @@ robots: noindex
 <img src="/foundation/images/fulls/2021/hackathon_pwc/text_matching.jpg" class="fit image">
 
 
+### Winners
+
+#### 1st place
+
+Team: Górnicy Carla Friedricha Team
+Solution: [github.com/pfilo8/WhyR-Hackathon-2021](https://github.com/pfilo8/WhyR-Hackathon-2021)
+Team Members: [Łukasz Łaszczuk](https://www.linkedin.com/in/%C5%82ukasz-%C5%82aszczuk-141361187/), [Robert Benke](https://www.linkedin.com/in/robert-benke-396b56175/) and [Patryk Wielopolski](https://www.linkedin.com/in/patryk-wielopolski/)
+
+#### 2nd place
+
+Team: Eskisehir R Users Group
+Solution: [github.com/ugurdar/PwCPoland](https://github.com/ugurdar/PwCPoland)
+Team Members: [Ugur DAR](https://www.linkedin.com/in/ugurdar/),[Mustafa CAVUS](https://www.linkedin.com/in/mustafacavusphd/)
+
+#### 3rd place
+
+[Katarzyna Sornat](https://www.linkedin.com/in/katarzynasornat)
+Solution: [github.com/katarzynasornat/text_matching_hackathon](https://github.com/katarzynasornat/text_matching_hackathon)
+
 ### Why Hackathon?
 
 Hackathons are events where enthusiasts of a specific topic gather in one place to work together on challenges that arose for a particular community.<br>
@@ -43,7 +62,7 @@ We are glad to support Why R and be a part of your community!
 
 > Academic papers are not cited by every researcher in proper format, for academic search engines it is problematic to find citations per each paper. As papers are cited in different formats, also with some typos, matching citations with the title of the papers is a complicated task. 
 
-The challenge is about matching name of academic papers in different format. In the zip file, you will find four datasets: tableA.csv, tableB.csv, train.csv, valid.csv
+The challenge was about matching name of academic papers in different format. In the zip file, you could find four datasets: tableA.csv, tableB.csv, train.csv, valid.csv
 
 Please find the dataset [here](https://github.com/WhyRFoundation/foundation/blob/master/2021/data_hackathon.zip)
 
@@ -52,25 +71,18 @@ Please find the dataset [here](https://github.com/WhyRFoundation/foundation/blob
 - train.csv : It contains, ltable_id, rtable_id, label columns. ltable_id is showing IDs of academic papers from tableA.csv. rtable_id is showing IDs of academic papers from tableB.csv. label coloumn is the information, if those articles are matched or not. 
 - valid.csv : It contains, ltable_id, rtable_id, label columns. ltable_id is showing IDs of academic papers from tableA.csv. rtable_id is showing IDs of academic papers from tableB.csv. You are expected to put your predictions to label coloumn. 
 
-In tableA.csv and tableB.csv you have same academic papers but their title, author names are in different formats. This brings the challenge. Your main goal is to develop a model which will succesfully match those names. Using train.csv file, you will get information about which of those academic papers are matched. 
+In tableA.csv and tableB.csv you had same academic papers but their title, author names are in different formats. This brings the challenge. The main goal was to develop a model which will succesfully match those names. Using train.csv file, participants got information about which of those academic papers are matched. 
 
-After training your models using train.csv files, please use validation.csv file to provide binary predictions (0 - 1). You will find pairs on that file. You will try to say if the academic paper is provided on tableA.csv, which has ID 12345 is matching to the academic paper is provided on tableB.csv, which has ID 34567. 
+After training the models using train.csv files, the validation.csv file was used to provide binary predictions (0 - 1). The pairs could be found on that file. 
 
 
 ### Competition Rules
 
-Since the event is a competition with symbolic prices, we would like to grade solutions.
-Criterias will be shared soon!
-
-Please fill [this form](https://forms.gle/LejLMAUSjV1aLSb69) when submitting the solution. Solution should contain
-- a url to a GitHub repo with codes, where you should provide motivation for your approach
-- and a url to the file with predictions
-
-You will be scored based on accuracy & F1 of your predictions and based on the creativity of your solution.
+Since the event was a competition with symbolic prices, we graded solutions. Solutions were scored based on accuracy & F1 of the predictions and based on the creativity of the solution.
 
 ### Mentors and Judges
 
-To provide solutions of the highest quality we have invited data science experts that will be available during the event for mentoring. At the time of closing presentations mentors will become judges of solutions and will score them based on the competition rules.
+To provide solutions of the highest quality we had invited data science experts that were available during the event for mentoring. At the time of closing presentations mentors had become judges of solutions and did score them based on the competition rules.
 
 <img src="/foundation/images/fulls/2021/hackathon_pwc/marcin_and_olgun.jpg" class="fit image">
 
@@ -79,7 +91,7 @@ To provide solutions of the highest quality we have invited data science experts
 
 ### Webinar
 
-The hackathon will be opened by a webinar!
+The hackathon was opened by a webinar!
 
 **Analyzing anomalies in the business processes using R and D3.js**
 
@@ -103,23 +115,10 @@ Agenda of the webinar
 
 
 
-### Teams
-
-We would like participants to gather in teams of 2 or 3. Please make sure your team has a broad variety of skills!
-
-If you do not have a team, please join our [whyr.pl/slack/](http://whyr.pl/slack/) to find out people willing to form a team. 
-
 ### Registration
 
-The Text Matching Hackathon is a free event. However, the registration is required. This will allow organizers to book capacity of mentors and judges! Use [this form](https://forms.gle/r2Pox9pc4ApJdpyJA) to register your team
+The Text Matching Hackathon was a free event. However, the registration was required.
 
-### Submit the solution
-
-Please fill [this form](https://forms.gle/LejLMAUSjV1aLSb69) when submitting the solution. Solution should contain
-- a url to a GitHub repo with codes, where you should provide motivation for your approach
-- and a url to the file with predictions
-
-You will be scored based on accuracy & F1 of your predictions and based on the creativity of your solution.
 
 ### Event details
 
