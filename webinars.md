@@ -36,6 +36,14 @@ Webinars are hosted each Thursday!
 * 2020-10-08 Introduction to Twitter data analysis in R
 {:toc}
 
+## 2021-02-04 What makes a good (fantasy) football manager? - web scraping and data analysis in R
+
+<img src="/foundation/images/fulls/webinars/joseph.jpg" class="fit image">
+
+- Speaker: [Joseph O’Brien](https://www.joeyobrien.ie/)
+- [Meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/275700841/)
+- [Webinar](https://youtu.be/lrbWF8nr_FA)
+
 ## 2021-01-28 Efficient computation with R
 
 <img src="/foundation/images/fulls/webinars/gwynn.jpg" class="fit image">
