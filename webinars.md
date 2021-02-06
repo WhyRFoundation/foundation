@@ -13,7 +13,7 @@ that uploaded to [Why R? YouTube channel](https://www.youtube.com/WhyRFoundation
 Webinars are hosted each Thursday!
 
 - channel: [youtube.com/WhyRFoundationVideos](https://www.youtube.com/WhyRFoundationVideos)
-- date: every Thursday **8:00 pm UTC+1**
+- date: every Thursday **8 pm UTC+1**
 - format: 45 minutes long talk + 10 minutes for Q&A 
 - comments: ask questions on YouTube live chat
 
@@ -35,6 +35,30 @@ Webinars are hosted each Thursday!
 * 2020-10-15 platypus - image segmentation & object detection made easy with R
 * 2020-10-08 Introduction to Twitter data analysis in R
 {:toc}
+
+## 2021-02-25 brms: Bayesian Regression Models using Stan
+
+<img src="/foundation/images/fulls/webinars/paul_buerkner.jpg" class="fit image">
+
+- Speaker: [Paul Buerkner](https://paul-buerkner.github.io/)
+- [Meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/275582884/)
+- [Webinar](https://youtu.be/OUyB4kiJcWE)
+
+## 2021-02-18 Running your R script in the Cloud
+
+<img src="/foundation/images/fulls/webinars/roel.jpg" class="fit image">
+
+- Speaker: [Roel Hogervorst](https://blog.rmhogervorst.nl/)
+- [Meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/275566832/)
+- [Webinar](https://youtu.be/1t47U_nBXdE)
+
+## 2021-02-11  Interpretation of single-cell RNA-sequencing trajectories
+
+<img src="/foundation/images/fulls/webinars/koen_berge.jpg" class="fit image">
+
+- Speaker: [Koen Van den Berge](https://koenvandenberge.github.io/)
+- [Meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/275967510/)
+- [Webinar](https://youtu.be/gzwhAlsaIRQ)
 
 ## 2021-02-04 What makes a good (fantasy) football manager? - web scraping and data analysis in R
 
