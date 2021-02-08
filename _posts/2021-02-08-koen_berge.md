@@ -3,7 +3,7 @@ layout: post
 title: Upcoming Why R Webinar - Interpretation of single-cell RNA-seq trajectories
 comments: true
 published: true
-date: 2021-02-07 16:00:00
+date: 2021-02-08 16:00:00
 author: Laís Carvalho
 categories: [webinar]
 tags: [2021]
