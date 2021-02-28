@@ -35,6 +35,22 @@ Webinars are hosted each Thursday!
 * 2020-10-15 platypus - image segmentation & object detection made easy with R
 * 2020-10-08 Introduction to Twitter data analysis in R
 {:toc}
+  
+## 2021-03-04 Towards automating Time Series Forecasting Using R
+
+<img src="/foundation/images/fulls/webinars/amal.jpg" class="fit image">
+
+- Speaker: [Amal Saadallah](https://www-ai.cs.tu-dortmund.de/PERSONAL/saadallah.html)
+- [Meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/276496957/?isFirstPublish=true)
+- [Webinar](https://youtu.be/Ga1zBe2Qp18)
+
+## 2021-02-25 brms: Bayesian Regression Models using Stan
+
+<img src="/foundation/images/fulls/webinars/paul_buerkner.jpg" class="fit image">
+
+- Speaker: [Paul Buerkner](https://paul-buerkner.github.io/)
+- [Meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/275582884/)
+- [Webinar](https://youtu.be/OUyB4kiJcWE)
 
 ## 2021-02-25 brms: Bayesian Regression Models using Stan
 
