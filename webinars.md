@@ -52,14 +52,6 @@ Webinars are hosted each Thursday!
 - [Meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/275582884/)
 - [Webinar](https://youtu.be/OUyB4kiJcWE)
 
-## 2021-02-25 brms: Bayesian Regression Models using Stan
-
-<img src="/foundation/images/fulls/webinars/paul_buerkner.jpg" class="fit image">
-
-- Speaker: [Paul Buerkner](https://paul-buerkner.github.io/)
-- [Meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/275582884/)
-- [Webinar](https://youtu.be/OUyB4kiJcWE)
-
 ## 2021-02-18 Running your R script in the Cloud
 
 <img src="/foundation/images/fulls/webinars/roel.jpg" class="fit image">
