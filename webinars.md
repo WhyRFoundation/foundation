@@ -35,6 +35,14 @@ Webinars are hosted each Thursday!
 * 2020-10-15 platypus - image segmentation & object detection made easy with R
 * 2020-10-08 Introduction to Twitter data analysis in R
 {:toc}
+
+## 2021-03-11 Tabular reporting with the flextable package
+
+<img src="/foundation/images/fulls/webinars/david_g.jpg" class="fit image">
+
+- Speaker: [David Gohel](https://www.ardata.fr/)
+- [Meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/276828277/?isFirstPublish=true)
+- [Webinar](https://youtu.be/-EuPFZCTnHE)
   
 ## 2021-03-04 Towards automating Time Series Forecasting Using R
 
