@@ -36,6 +36,30 @@ Webinars are hosted each Thursday!
 * 2020-10-08 Introduction to Twitter data analysis in R
 {:toc}
 
+## 2021-03-22 Analysing Political Speeches in R - some approaches
+
+<img src="/foundation/images/fulls/webinars/evan.jpg" class="fit image">
+
+- Speaker: [Evan Odell](https://evanodell.com/)
+- [Meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/276829405/?isFirstPublish=true)
+- [Webinar](https://youtu.be/HYkwW1e18lU)
+
+## 2021-03-18 _officeverse_: a set of packages to ease the production of Word and PowerPoint documents
+
+<img src="/foundation/images/fulls/webinars/David_2.jpg" class="fit image">
+
+- Speaker: [David Gohel](https://www.ardata.fr/)
+- [Meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/276828427/?isFirstPublish=true)
+- [Webinar](https://youtu.be/sWDhPI8gKGg)
+
+## 2021-03-15 Data Optimisation network
+
+<img src="/foundation/images/fulls/webinars/gaurav.jpg" class="fit image">
+
+- Speaker: Gaurah Pahuja
+- [Meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/276829238/?isFirstPublish=true)
+- [Webinar](https://youtu.be/5TQfLU-58Y4g)
+
 ## 2021-03-11 Tabular reporting with the flextable package
 
 <img src="/foundation/images/fulls/webinars/david_g.jpg" class="fit image">
