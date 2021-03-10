@@ -19,6 +19,15 @@ Webinars are hosted each Thursday!
 
 # Webinars
  
+* 2021-03-22 Analysing Political Speeches in R - some approaches
+* 2021-03-18 _officeverse_: a set of packages to ease the production of Word and PowerPoint documents
+* 2021-03-15 Data Optimisation network
+* 2021-03-11 Tabular reporting with the flextable package
+* 2021-03-04 Towards automating Time Series Forecasting Using R
+* 2021-02-25 brms: Bayesian Regression Models using Stan
+* 2021-02-18 Running your R script in the Cloud
+* 2021-02-11  Interpretation of single-cell RNA-sequencing trajectories
+* 2021-02-04 What makes a good (fantasy) football manager? - web scraping and data analysis in R
 * 2021-01-28 Efficient computation with R
 * 2021-01-18 R in PowerBi - an introduction
 * 2021-01-14 Why using R for analysis of the human microbiome is a good idea
