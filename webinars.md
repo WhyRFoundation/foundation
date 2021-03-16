@@ -19,6 +19,15 @@ Webinars are hosted each Thursday!
 
 # Webinars
  
+* 2021-03-22 Analysing Political Speeches in R - some approaches
+* 2021-03-18 _officeverse_: a set of packages to ease the production of Word and PowerPoint documents
+* 2021-03-15 Data Optimisation network
+* 2021-03-11 Tabular reporting with the flextable package
+* 2021-03-04 Towards automating Time Series Forecasting Using R
+* 2021-02-25 brms: Bayesian Regression Models using Stan
+* 2021-02-18 Running your R script in the Cloud
+* 2021-02-11  Interpretation of single-cell RNA-sequencing trajectories
+* 2021-02-04 What makes a good (fantasy) football manager? - web scraping and data analysis in R
 * 2021-01-28 Efficient computation with R
 * 2021-01-18 R in PowerBi - an introduction
 * 2021-01-14 Why using R for analysis of the human microbiome is a good idea
@@ -35,6 +44,38 @@ Webinars are hosted each Thursday!
 * 2020-10-15 platypus - image segmentation & object detection made easy with R
 * 2020-10-08 Introduction to Twitter data analysis in R
 {:toc}
+
+## 2021-03-22 Analysing Political Speeches in R - some approaches
+
+<img src="/foundation/images/fulls/webinars/evan.jpg" class="fit image">
+
+- Speaker: [Evan Odell](https://evanodell.com/)
+- [Meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/276829405/?isFirstPublish=true)
+- [Webinar](https://youtu.be/HYkwW1e18lU)
+
+## 2021-03-18 _officeverse_: a set of packages to ease the production of Word and PowerPoint documents
+
+<img src="/foundation/images/fulls/webinars/David_2.jpg" class="fit image">
+
+- Speaker: [David Gohel](https://www.ardata.fr/)
+- [Meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/276828427/?isFirstPublish=true)
+- [Webinar](https://youtu.be/sWDhPI8gKGg)
+
+## 2021-03-15 Data Optimisation network
+
+<img src="/foundation/images/fulls/webinars/gaurav.jpg" class="fit image">
+
+- Speaker: Gaurah Pahuja
+- [Meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/276829238/?isFirstPublish=true)
+- [Webinar](https://youtu.be/5TQfLU-58Y4g)
+
+## 2021-03-11 Tabular reporting with the flextable package
+
+<img src="/foundation/images/fulls/webinars/david_g.jpg" class="fit image">
+
+- Speaker: [David Gohel](https://www.ardata.fr/)
+- [Meetup event](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/events/276828277/?isFirstPublish=true)
+- [Webinar](https://youtu.be/-EuPFZCTnHE)
   
 ## 2021-03-04 Towards automating Time Series Forecasting Using R
 
