@@ -16,10 +16,19 @@ FUNDACJA WHY R? / WHY R? Foundation
 - NIP 5242853074,
 - BANK: PKO BANK POLSKI SA 62 1020 1055 0000 9402 0408 1287
 
-Management Board
-- Kosiński Marcin Piotr (chairman),
-- Bartosz Sękiewicz (vice-chairman),
-- Agnieszka Borsuk-De Moor (vice-chairman)
-- Burdukiewicz Michał Jan (amanuensis),
+Current Management Board (polish residency required)
+- [2018-02-20 / 2022-02-20] (he/him)  Kosiński Marcin Piotr (chairman),
+- [2018-02-20 / 2022-02-20] (she/her) Agnieszka Borsuk-De Moor (vice-chairman),
+- [2018-02-20 / 2022-02-20] (he/him)  Burdukiewicz Michał Jan (amanuensis),
+- [2021-04-01 / 2022-02-20] (she/her) Kozak Anna, 
+- [2021-04-01 / 2022-02-20] (he/him)  Maj Michał,
+- [2021-04-01 / 2022-02-20] (she/her) Burdukiewicz Aleksandra,
+- [2021-04-01 / 2022-02-20] (he/him)  Aydin Olgun, 
+
+Past Management Board
+- [2018-02-20 / 2021-04-01] (he/him) Bartosz Sękiewicz (vice-chairman) 
+
+International Supporters and Active Members of Foundation
+- Kevin O'Brien
 
 > Email: kontakt@whyr.pl
