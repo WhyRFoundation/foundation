@@ -5,10 +5,29 @@ permalink: /events/
 robots: noindex
 ---
 
-|:---------|:-------------|:-------------|:-------------|
-| [2020](#2020) | [2019](#2019) |  [2018](#2018) | [2017](#2017) |
+|:---------|:---------|:-------------|:-------------|:-------------|
+| [2021](#2021) | [2020](#2020) | [2019](#2019) |  [2018](#2018) | [2017](#2017) |
 
 <img src="/foundation/images/fulls/ultra_map.jpg" class="image">
+
+## 2021
+
+### Why R? 2021 Conference
+
+- [Website](http://whyr.pl/2021/)
+
+### Data Science Realm
+
+- [Playlist](https://www.youtube.com/watch?v=wnBm3eIaW4w&list=PLKMUlj_pGn_kWlTLd_ssAiHrwaYmzxkVN)
+- [Website](https://www.facebook.com/Data-Science-Realm-Meetup-109748701190727/)
+
+<img src="/foundation/images/fulls/2021/dsr/cover.png" class="image">
+
+### Why R? 2020 Text Matching Hackathon
+
+- [Website](http://whyr.pl/foundation/2021/hackathon/)
+
+<img src="/foundation/images/fulls/2021/hackathon_pwc/text_matching.jpg" class="image">
 
 ## 2020
 
