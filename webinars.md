@@ -13,12 +13,17 @@ that uploaded to [Why R? YouTube channel](https://www.youtube.com/WhyRFoundation
 Webinars are hosted each Thursday!
 
 - channel: [youtube.com/WhyRFoundationVideos](https://www.youtube.com/WhyRFoundationVideos)
-- date: every Thursday **8 pm UTC+1**
+- date: every Thursday **8 pm UTC+2** in `Summer time` and **8 pm UTC+2** in `Winter time`
 - format: 45 minutes long talk + 10 minutes for Q&A 
 - comments: ask questions on YouTube live chat
 
 # Webinars
- 
+
+* 2021-04-29 Estimating volume from point-referenced thickness measurements
+* 2021-04-22 Storytelling with ggplot2
+* 2021-04-19 R in the World of Demography
+* 2021-04-12 COVe[R]AGE-DB: Uncovering the demographic dynamics of COVID19 cases and deaths using R
+* 2021-03-25 Social Media Analytics around Covid-19
 * 2021-03-22 Analysing Political Speeches in R - some approaches
 * 2021-03-18 _officeverse_: a set of packages to ease the production of Word and PowerPoint documents
 * 2021-03-15 Data Optimisation network
@@ -44,6 +49,45 @@ Webinars are hosted each Thursday!
 * 2020-10-15 platypus - image segmentation & object detection made easy with R
 * 2020-10-08 Introduction to Twitter data analysis in R
 {:toc}
+
+## 2021-04-29 Estimating volume from point-referenced thickness measurements
+
+<img src="/foundation/images/fulls/webinars/jonty.jpg" class="fit image">
+
+- Speaker: [Jonty Rougier](https://www.rougierconsulting.com/)
+- [Webinar](https://youtu.be/KL1b6A7Pdjk)
+
+
+## 2021-04-22 Storytelling with ggplot2
+
+<img src="/foundation/images/fulls/webinars/regis.jpg" class="fit image">
+
+- Speaker: [Regis O’Connor](https://www.linkedin.com/in/analyticsrmo/)
+- [Webinar](https://youtu.be/05b_a9RRi8E)
+
+
+## 2021-04-19 R in the World of Demography
+
+<img src="/foundation/images/fulls/webinars/corina.jpg" class="fit image">
+
+- Speaker: [Corina McCullough Vidal](https://www.linkedin.com/in/corinamccullough/)
+- [Webinar](https://youtu.be/vQAZsZADKHo)
+
+
+## 2021-04-12 COVe[R]AGE-DB: Uncovering the demographic dynamics of COVID19 cases and deaths using R
+
+<img src="/foundation/images/fulls/webinars/emmanuel.jpg" class="fit image">
+
+- Speaker: [Emmanuel Olamijuwon](https://e.olamijuwon.com/)
+- [Webinar](https://youtu.be/c7QJ2Gc2dTI)
+
+
+## 2021-03-25 Social Media Analytics around Covid-19
+
+<img src="/foundation/images/fulls/webinars/arjumand.jpg" class="fit image">
+
+- Speaker: [Arjumand Younus](https://www.linkedin.com/in/arjumand-younus-b6437a7)
+- [Webinar](https://youtu.be/GxnNr2I9glY)
 
 ## 2021-03-22 Analysing Political Speeches in R - some approaches
 
