@@ -22,11 +22,6 @@ robots: noindex
 
 <iframe width="850" height="480" src="https://www.youtube.com/embed/F523a8bKDJA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-a TEST SUrvey
-<iframe width="850" height="480" src="https://gradientmetrics.az1.qualtrics.com/jfe/form/SV_6DMp1xi02wlIYjc?type=A&target=ID26" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
 
 ## 2019
 
